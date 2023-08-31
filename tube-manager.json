@@ -1,0 +1,5030 @@
+{
+  "headings": {
+    "sections": "TL;DR",
+    "suggestedVideos": "Suggested",
+    "links": "Links",
+    "credits": "Credits",
+    "affiliateLinks": "Affiliate links",
+    "footnotes": "Change log",
+    "support": "Support"
+  },
+  "separator": "👉",
+  "affiliateLinks": {},
+  "videos": [
+    {
+      "id": "pp-INfssWBo",
+      "publishedAt": "2023-05-04T15:00:21Z",
+      "title": "Why I no longer use a VPN (most of the time) and nor should you",
+      "description": "In this episode, we explore why I no longer use a VPN (most of the time) and nor should you.",
+      "tags": ["Privacy", "Security", "VPN", "NordVPN", "Mullvad"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        {
+          "label": "Pranks Destroy Scam Callers- GlitterBomb Payback",
+          "url": "https://www.youtube.com/watch?v=xsLJZyih3Ac"
+        },
+        "video.s-vwthG28ks"
+      ],
+      "links": [
+        {
+          "label": "Mullvad",
+          "url": "https://mullvad.net/en"
+        },
+        {
+          "label": "How does built-in Phishing and Malware Protection work?",
+          "url": "https://support.mozilla.org/en-US/kb/how-does-phishing-and-malware-protection-work?as=u&utm_source=inproduct"
+        },
+        {
+          "label": "uBlock Origin",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/"
+        },
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=pp-INfssWBo"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7a41f76d7b15963c45bfcbf87b9431d0342f7e48ca6efe1d86f14987eb15d666"
+    },
+    {
+      "id": "f69rX730vl0",
+      "publishedAt": "2023-05-02T17:06:24Z",
+      "title": "What has changed in my setup (2023-edition)",
+      "description": "In this episode, we explore what has changed in my setup.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "M2 MacBook Air",
+          "timestamp": "00:43"
+        },
+        {
+          "label": "Hardened macOS Ventura",
+          "timestamp": "02:01"
+        },
+        {
+          "label": "ThinkPad X1 Carbon Gen 6",
+          "timestamp": "03:23"
+        },
+        {
+          "label": "Raspberry Pi 4 Bitcoin full node",
+          "timestamp": "04:57"
+        },
+        {
+          "label": "COLDCARD Mk4",
+          "timestamp": "05:49"
+        },
+        {
+          "label": "Electrum",
+          "timestamp": "06:20"
+        },
+        {
+          "label": "iPhone SE2",
+          "timestamp": "06:32"
+        },
+        {
+          "label": "Hardened iOS 16",
+          "timestamp": "07:11"
+        },
+        {
+          "label": "Pixel 5 running GrapheneOS",
+          "timestamp": "08:20"
+        },
+        {
+          "label": "KeePassXC + YubiKey 5C NFC",
+          "timestamp": "09:06"
+        },
+        {
+          "label": "Superbacked",
+          "timestamp": "10:07"
+        },
+        {
+          "label": "Yubico Authenticator",
+          "timestamp": "10:17"
+        },
+        {
+          "label": "Hardened Firefox",
+          "timestamp": "11:51"
+        },
+        {
+          "label": "Mullvad VPN",
+          "timestamp": "12:33"
+        },
+        {
+          "label": "Proton Mail",
+          "timestamp": "13:17"
+        },
+        {
+          "label": "Signal",
+          "timestamp": "15:19"
+        },
+        {
+          "label": "Sparse-encrypted rsync backups",
+          "timestamp": "15:47"
+        },
+        {
+          "label": "Borg backups to rsync.net",
+          "timestamp": "16:21"
+        },
+        {
+          "label": "1984 hosting",
+          "timestamp": "16:43"
+        }
+      ],
+      "suggestedVideos": [
+        "video.jqJD4dWE-0g",
+        "video.ASXANpr_zX8",
+        "video.Y6xRBItR2pM",
+        "video.d_M18sq0TIQ",
+        "video.kZ4NHz-gjLo",
+        "video.HHFvJYiciRU",
+        {
+          "label": "Apple’s iPhone Passcode Problem: Thieves Can Ruin Your Entire Digital Life in Minutes | WSJ ",
+          "url": "https://www.youtube.com/watch?v=QUYODQB_2wQ"
+        },
+        "video.s-vwthG28ks",
+        "video.G2Jh8bQ2wM8",
+        "video.g73XmszOwYs"
+      ],
+      "links": [
+        {
+          "label": "Tails OS",
+          "url": "https://tails.boum.org/"
+        },
+        {
+          "label": "Little Snitch",
+          "url": "https://www.obdev.at/products/littlesnitch/index.html"
+        },
+        {
+          "label": "COLDCARD Mk4",
+          "url": "https://store.coinkite.com/store/mk4"
+        },
+        {
+          "label": "GrapheneOS",
+          "url": "https://grapheneos.org/"
+        },
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=QmhtDF0CY6c"
+        },
+        {
+          "label": "YubiKey 5C NFC",
+          "url": "https://www.yubico.com/products/yubikey-5-overview/"
+        },
+        {
+          "label": "Yubico Authenticator",
+          "url": "https://www.yubico.com/products/yubico-authenticator/"
+        },
+        {
+          "label": "Mullvad",
+          "url": "https://mullvad.net/en"
+        },
+        {
+          "label": "Tor Browser",
+          "url": "https://www.torproject.org/"
+        },
+        {
+          "label": "Signal",
+          "url": "https://www.signal.org/"
+        },
+        {
+          "label": "Borg backup",
+          "url": "https://www.borgbackup.org/"
+        },
+        {
+          "label": "rsync.net",
+          "url": "https://www.rsync.net/products/borg.html"
+        },
+        {
+          "label": "1984",
+          "url": "https://www.1984hosting.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ff3e8091a5f5944afd478f4027b4839cfe047b33cb20b7b0ab62c21155ceb2fa"
+    },
+    {
+      "id": "jqJD4dWE-0g",
+      "publishedAt": "2023-04-27T10:58:46Z",
+      "title": "Change",
+      "description": "In this episode, we explore why nothing truly exciting can ever happen without change.",
+      "tags": ["Privacy", "Security", "Superbacked"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Casey Neistat",
+          "url": "https://www.youtube.com/@casey"
+        },
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=jqJD4dWE-0g"
+        }
+      ],
+      "credits": [
+        {
+          "label": "Track 1: Kyle Watson, The Lion In My Head (feat. PaulWetz)",
+          "url": "https://music.apple.com/ca/album/the-lion-in-my-head-feat-paulwetz-single/1483227484"
+        },
+        {
+          "label": "Track 2: Steve Darko, Thumbs (feat. Uncle Kev)",
+          "url": "https://music.apple.com/ca/album/fried-or-fertilized-single/1383640472"
+        }
+      ],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "fcbfa8a118e02e7488279928345faa5d6b50d39f972d82380e81fb3777a6068e"
+    },
+    {
+      "id": "Y6xRBItR2pM",
+      "publishedAt": "2023-03-10T16:05:41Z",
+      "title": "Is Apple deliberately killing our batteries?",
+      "description": "In this episode, we explore if Apple is deliberately killing our batteries and what one can do about it.",
+      "tags": ["Privacy", "Security", "Apple", "Battery"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/stories/is-apple-deliberately-killing-our-batteries"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "3fb64c8f6cb90e7d489c5b749177b2b1170694621f5c283c8b4a0c5862b56f5a"
+    },
+    {
+      "id": "DvjxUN5ZYvE",
+      "publishedAt": "2023-02-23T18:47:09Z",
+      "title": "How to setup system-wide Mullvad DNS over HTTPS on iOS and macOS",
+      "description": "In this episode, we explore how to setup system-wide Mullvad DNS over HTTPS on iOS and macOS.",
+      "tags": ["Privacy", "Security", "iOS", "macOS", "DNS over HTTPS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.A7ZBLa4TD_o"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-setup-system-wide-mullvad-dns-over-https-on-ios-and-macos"
+        },
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=DvjxUN5ZYvE"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "8362960c17339c14b821b5aee9cf8a8607587798046f5c77286e32f5afadc4dd"
+    },
+    {
+      "id": "A7ZBLa4TD_o",
+      "publishedAt": "2023-02-21T14:19:11Z",
+      "title": "Mullvad’s FREE DNS over HTTPS service is a no-brainer for these reasons",
+      "description": "In this episode, we explore why Mullvad’s FREE DNS over HTTPS service is a no-brainer.",
+      "tags": ["Privacy", "Security", "Mullvad", "Firefox", "DNS over HTTPS"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "iOS guide",
+          "timestamp": "00:17"
+        },
+        {
+          "label": "Ad",
+          "timestamp": "01:18"
+        },
+        {
+          "label": "macOS guide",
+          "timestamp": "03:18"
+        }
+      ],
+      "suggestedVideos": ["video.s-vwthG28ks"],
+      "links": [
+        {
+          "label": "Mullvad DNS over HTTPS",
+          "url": "https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/"
+        },
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-firefox-for-privacy-and-security"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b007b966330faef1311b28393561604075cd3525bf5874421639e838f9136d3f"
+    },
+    {
+      "id": "Xsnsu5V7GkQ",
+      "publishedAt": "2023-02-20T14:45:58Z",
+      "title": "The iStorage datAshur PRO² USB flash drive is one of a kind",
+      "description": "In this episode, we explore why the iStorage datAshur PRO² USB flash drive is one of a kind.",
+      "tags": ["Privacy", "Security", "iStorage"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.fnHM3nBhcII"],
+      "links": [
+        {
+          "label": "iStorage datAshur PRO²",
+          "url": "https://istorage-uk.com/product/datashur-pro2/"
+        },
+        {
+          "label": "iStorage datAshur PRO² manual",
+          "url": "https://istorage-uk.com/wp-content/uploads/2020/12/datAshur-PRO2-user-manual_v3.0a.pdf"
+        },
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=Xsnsu5V7GkQ"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ec30bf3e419495eb204249e2b6b9d35367edb52b6e3e143c87946c40ebdcf811"
+    },
+    {
+      "id": "fnHM3nBhcII",
+      "publishedAt": "2023-02-15T15:22:53Z",
+      "title": "How to disable data persistence on Ubuntu using overlayroot",
+      "description": "In this episode, we explore how to disable data persistence on Ubuntu using overlayroot.\n\nSuperbacked promo code: FNHM3NBHCII (valid for first 10 purchases)",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Ubuntu",
+        "Superbacked",
+        "Data forensics"
+      ],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Tails OS",
+          "timestamp": "00:25"
+        },
+        {
+          "label": "How to disable data persistence on Ubuntu",
+          "timestamp": "01:55"
+        },
+        {
+          "label": "How to use RAM disk on macOS",
+          "timestamp": "03:56"
+        },
+        {
+          "label": "Data forensics",
+          "timestamp": "06:53"
+        }
+      ],
+      "suggestedVideos": ["video.4An54WTIYVM"],
+      "links": [
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=fnHM3nBhcII"
+        },
+        {
+          "label": "How to setup hardened Ubuntu environment on Intel computer",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-setup-hardened-ubuntu-environment-on-intel-computer"
+        },
+        {
+          "label": "How to setup hardened Ubuntu environment on Raspberry Pi",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-setup-hardened-ubuntu-environment-on-raspberry-pi"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "2688adaabcb753b2697740e5024088c9147835af66c60dfee53977540da94350"
+    },
+    {
+      "id": "4An54WTIYVM",
+      "publishedAt": "2023-02-13T15:57:18Z",
+      "title": "Why I am obsessed with this tiny 16GB M.2 SATA disk",
+      "description": "In this episode, we explore why I am obsessed with this tiny 16GB M.2 SATA disk.\n\nSuperbacked promo code: 4AN54WTIYVM (valid for first 10 purchases)",
+      "tags": ["Privacy", "Security", "Superbacked", "Data forensics"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=4An54WTIYVM"
+        },
+        {
+          "label": "Satechi M.2 PCIE NVME and SATA SSD enclosure",
+          "url": "https://satechi.net/products/usb-c-aluminum-tool-free-enclosure-for-m-2-pcie-nvme-and-sata-ssds?variant=40001937539160"
+        },
+        {
+          "label": "Electron issue",
+          "url": "https://github.com/electron/electron/issues/36242"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "be052f76be83a08b08d52c1ccea9b699fc869db99200bb730e53fc0b433ab934"
+    },
+    {
+      "id": "o_f23wC0VM0",
+      "publishedAt": "2022-12-30T16:34:27Z",
+      "title": "Answering your questions about Superbacked",
+      "description": "In this episode, I answer your questions about Superbacked.",
+      "tags": ["Privacy", "Security", "Superbacked"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.12y-fOmyjHA"],
+      "links": [
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=o_f23wC0VM0"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "eb1706666f90beb718c93fcf7ad059a075b986bbb306a1b713726b061f01b8c1"
+    },
+    {
+      "id": "12y-fOmyjHA",
+      "publishedAt": "2022-12-22T20:55:45Z",
+      "title": "Introducing Superbacked, possibly the world’s most advanced backup and succession planning app",
+      "description": "In this episode, we explore Superbacked, possibly the world’s most advanced backup and succession planning app.",
+      "tags": ["Privacy", "Security", "Superbacked"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.bary2XghKjw"],
+      "links": [
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=12y-fOmyjHA"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "676de6a49bf526ae8ac27fc7b93883f775c56b6f03577f10277c670b6c4b0e0f"
+    },
+    {
+      "id": "s-vwthG28ks",
+      "publishedAt": "2022-11-18T18:15:35Z",
+      "title": "Firefox privacy and security hardening guide (2022 revised edition)",
+      "description": "In this episode, we explore Firefox privacy and security hardening guide (2022 revised edition).",
+      "tags": ["Privacy", "Security", "Firefox"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-firefox-for-privacy-and-security"
+        },
+        {
+          "label": "Superbacked",
+          "url": "https://superbacked.com/?utm_campaign=creators&utm_source=sunknudsen&utm_medium=youtube&utm_content=s-vwthG28ks"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "193b647f5015bd2d1ccce9ce894e807e9b5e67c500088a86d5c39f692f5d044e"
+    },
+    {
+      "id": "eTRvFyDxKvU",
+      "publishedAt": "2022-11-08T15:07:56Z",
+      "title": "What makes Mastodon different from Twitter",
+      "description": "In this episode, we explore what makes Mastodon different from Twitter.\n\nSomething happened while recording… sorry for strange frame rate.",
+      "tags": ["Privacy", "Security", "Mastodon", "Twitter"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.p2MpQZNqjwI"],
+      "links": [
+        {
+          "label": "Mastodon",
+          "url": "https://joinmastodon.org/"
+        },
+        {
+          "label": "Twitter (please follow @superbacked)",
+          "url": "https://twitter.com/superbacked"
+        },
+        {
+          "label": "Superbacked (join waiting list)",
+          "url": "https://superbacked.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "e1646558629d7aeefaa26af7512825b6414bcf476c5b13726f902afe107a991e"
+    },
+    {
+      "id": "p2MpQZNqjwI",
+      "publishedAt": "2022-11-06T14:33:46Z",
+      "title": "Fake Twitter accounts are dangerously out of control",
+      "description": "In this episode, we explore why fake Twitter accounts are dangerously out of control.",
+      "tags": ["Privacy", "Security", "Twitter"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "e4ef481b7bb0acd0947004c90c2613497ed5a3e52da55d4231ec45638916b256"
+    },
+    {
+      "id": "Sbs8vQPGSAE",
+      "publishedAt": "2022-11-02T13:33:52Z",
+      "title": "Does “Erase All Content and Settings” actually wipe user data on macOS?",
+      "description": "In this episode, we explore if “Erase All Content and Settings” actually wipes user data on macOS.",
+      "tags": ["Privacy", "Security", "Apple", "macOS", "Effaceable storage"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Apple Platform Security",
+          "url": "https://www.apple.com/ca/business/mac/pdf/aaw-platform-security.pdf"
+        },
+        {
+          "label": "Twitter (please follow @superbacked)",
+          "url": "https://twitter.com/superbacked"
+        },
+        {
+          "label": "Superbacked (join waiting list)",
+          "url": "https://superbacked.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "79725399bc1300a9aeb2d49aa118dd6afb66d2df0816b3d275445a14afea2b38"
+    },
+    {
+      "id": "eAgfeVNKdoo",
+      "publishedAt": "2022-10-30T13:41:46Z",
+      "title": "macOS stores a copy of everything one prints forever",
+      "description": "In this episode, we explore how macOS stores a copy of everything one prints forever.",
+      "tags": ["Privacy", "Security", "macOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "How to disable CUPS printer job history on macOS",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-disable-cups-printer-job-history-on-macos"
+        },
+        {
+          "label": "Twitter (please follow @superbacked)",
+          "url": "https://twitter.com/superbacked"
+        },
+        {
+          "label": "Superbacked (join waiting list)",
+          "url": "https://superbacked.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "65c65f74ac181dcffc994d9f75ed88392bdcc434165bc59dda2a0553a0725ac6"
+    },
+    {
+      "id": "bary2XghKjw",
+      "publishedAt": "2022-10-26T14:42:57Z",
+      "title": "Introducing Blockcrypt, an encryption scheme with plausible deniability by design",
+      "description": "In this episode, we explore Blockcrypt, an encryption scheme with plausible deniability by design.",
+      "tags": ["Privacy", "Security", "Cryptography"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.1cz_ViFB6eE", "video.qPAOMczcuZw"],
+      "links": [
+        {
+          "label": "Blockcrypt (please star repo)",
+          "url": "https://github.com/sunknudsen/blockcrypt"
+        },
+        {
+          "label": "Superbacked (join waiting list)",
+          "url": "https://superbacked.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "e3cad01b17419f4a5a24d88610bda442b7851ca88ba782dba9c71df056343e9c"
+    },
+    {
+      "id": "3SP5CECO5Ik",
+      "publishedAt": "2022-08-09T16:13:12Z",
+      "title": "Hey, what’s up?",
+      "description": "In this episode, we explore what I’ve been up to.",
+      "tags": ["Privacy", "Security", "Superbacked"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "947e8c477e898a8c7d51ef4cf0de574b6801459b1ee91b0d7c0338e94f117bc9"
+    },
+    {
+      "id": "oAgoYxTdgkQ",
+      "publishedAt": "2022-06-26T12:32:58Z",
+      "title": "Introducing nanobloc, nano-suction webcam covers for all devices",
+      "description": "In this episode, we explore nanobloc, nano-suction webcam covers for all devices.",
+      "tags": ["Privacy", "Security", "eyebloc", "nanobloc"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Eyebloc Nanobloc Universal Webcam Covers - Dots and Bars",
+          "url": "https://eyebloc.com/collections/webcam-blockers/products/eyebloc-nanobloc-universal-webcam-covers-no-adhesives"
+        },
+        {
+          "label": "iPhone SE (2022 / 2020) Case Ultra Hybrid",
+          "url": "https://www.spigen.com/collections/iphone-se/products/iphone-se-case-ultra-hybrid-1?variant=31754591666223"
+        },
+        {
+          "label": "Pixel 5 Case Ultra Hybrid",
+          "url": "https://www.spigen.com/collections/pixel-5/products/pixel-5-case-ultra-hybrid?variant=32618355228719"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "50f8b2ed39308988024d2ab617059dd9fa02f7d3c683641b2b06bfdafb20f9d3"
+    },
+    {
+      "id": "0rlftqSvKiE",
+      "publishedAt": "2022-06-24T20:14:15Z",
+      "title": "How to privately sync calendars and contacts between iOS and macOS",
+      "description": "In this episode, we explore how to privately sync calendars and contacts between iOS and macOS.",
+      "tags": ["Privacy", "Security", "iOS", "macOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.picHC0L5clA"],
+      "links": [
+        {
+          "label": "iCloud security overview",
+          "url": "https://support.apple.com/en-us/HT202303"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "9abf1d74d26201ecfc63380f7239e5f08f1441b9be653ea8e50a5a9f1ed523a7"
+    },
+    {
+      "id": "STSP2_P8vqM",
+      "publishedAt": "2022-06-23T15:30:03Z",
+      "title": "Proton on Android vs iOS inconsistencies are driving me bananas",
+      "description": "In this episode, we explore why Proton on Android vs iOS inconsistencies are driving me bananas.",
+      "tags": ["Privacy", "Security", "Proton"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "c9d0cbc6dbf3794fd03956bbf98c5d93cb47445022370706d60b7ef7b4c245a5"
+    },
+    {
+      "id": "vI7AWl6qxWY",
+      "publishedAt": "2022-06-03T19:12:32Z",
+      "title": "Introducing Fathom, a wonderful GDPR, CCPA and PECR privacy-conscious Google Analytics alternative",
+      "description": "In this episode, we explore Fathom, a wonderful GDPR, CCPA and PECR privacy-conscious Google Analytics alternative.",
+      "tags": ["Privacy", "Security", "Fathom", "Google Analytics", "GDPR"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Please use my Fathom affiliate link, get $10 discount",
+          "url": "https://usefathom.com/ref/YSECIV"
+        },
+        {
+          "label": "Custom Fathom script",
+          "url": "https://github.com/sunknudsen/custom-fathom-script"
+        },
+        {
+          "label": "Jonathan’s blog",
+          "url": "https://jonathandupre.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "8996f04e596e4b7d2feaf81385194e03f5e9b8f581fbaa1adc0537ead8e24cad"
+    },
+    {
+      "id": "G2Jh8bQ2wM8",
+      "publishedAt": "2022-06-02T16:54:38Z",
+      "title": "Tutanota review and why it’s one of a kind (compared to Proton)",
+      "description": "In this episode, we explore why Tutanota is one of a kind and why one should choose one over the other.",
+      "tags": ["Privacy", "Security", "Tutanota", "Proton"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.mE8fL5Fu8x8", "video.GdDFUycXR_M"],
+      "links": [
+        {
+          "label": "Tutanota",
+          "url": "https://tutanota.com/"
+        },
+        {
+          "label": "Proton",
+          "url": "https://proton.me/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "e8c29307e23d8362e0cb26d65f7e74554f3f3696400a59a597ebe9c89aa1d29e"
+    },
+    {
+      "id": "YlZfKrSf2PQ",
+      "publishedAt": "2022-05-26T11:59:44Z",
+      "title": "Twitter fined $150 million in privacy settlement",
+      "description": "In this episode, we explore why Twitter was fined $150 million in privacy settlement.",
+      "tags": ["Privacy", "Security", "Twitter"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.VZlzPKJP4TQ",
+        "video.7nu04NBH2Qc",
+        "video.b9aMJZjZ4pw"
+      ],
+      "links": [
+        {
+          "label": "Twitter is fined $150 million in privacy settlement, as Elon Musk commits more equity to fund deal.",
+          "url": "https://www.nytimes.com/2022/05/25/technology/twitter-fined-ftc-doj-privacy.html"
+        },
+        {
+          "label": "Sun Knudsen (@sunknudsen) / Twitter",
+          "url": "https://twitter.com/sunknudsen"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bcb185595c7b78b36325cf3389844d2d3d2d462fc9757f2c80bce57568986796"
+    },
+    {
+      "id": "J9jxgpSgcv4",
+      "publishedAt": "2022-05-25T17:12:41Z",
+      "title": "Proton Mail and Calendar review featuring new unified look",
+      "description": "In this episode, we explore Proton Mail and Calendar featuring new unified look.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Proton",
+        "Proton Calendar",
+        "Proton Mail"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Proton",
+          "url": "https://proton.me/"
+        },
+        {
+          "label": "Tutanota",
+          "url": "https://tutanota.com/"
+        },
+        {
+          "label": "How to encrypt, sign and decrypt messages using GnuPG on macOS",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-encrypt-sign-and-decrypt-messages-using-gnupg-on-macos"
+        },
+        {
+          "label": "How to generate and air gap PGP private keys using GnuPG, Tails and YubiKey",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-generate-and-air-gap-pgp-private-keys-using-gnupg-tails-and-yubikey"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "79a8ae59c2e9bad0e35c794055db851b65c75e5791e2caef80a024326288cfea"
+    },
+    {
+      "id": "GdDFUycXR_M",
+      "publishedAt": "2022-05-20T13:37:58Z",
+      "title": "ProtonMail does not encrypt our social graph",
+      "description": "In this episode, we explore how ProtonMail does not encrypt our social graph.",
+      "tags": ["Privacy", "Security", "ProtonMail"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.picHC0L5clA"],
+      "links": [
+        {
+          "label": "Radicale",
+          "url": "https://radicale.org/"
+        },
+        {
+          "label": "ProtonMail",
+          "url": "https://protonmail.com/"
+        },
+        {
+          "label": "Tutanota",
+          "url": "https://tutanota.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "36b1f931fed626c33b60eaeef3674ad4d942bb115df5eed8ebfbdfee75fc0a55"
+    },
+    {
+      "id": "picHC0L5clA",
+      "publishedAt": "2022-05-18T15:04:56Z",
+      "title": "I finally dropped iCloud and you should too",
+      "description": "In this episode, we explore why I finally dropped iCloud and you should too.",
+      "tags": ["Privacy", "Security", "Apple", "iCloud"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "iCloud security overview",
+          "url": "https://support.apple.com/en-us/HT202303"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "d76c9e6a23fa99938f3850d75bed0a2c924b2f932f794e4a7843481ada15dc63"
+    },
+    {
+      "id": "JLvxTdgi0tU",
+      "publishedAt": "2022-04-15T17:50:52Z",
+      "title": "Status update",
+      "description": "In this episode, we explore what I have been up to.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Star GitHub repo",
+          "url": "https://github.com/sunknudsen/privacy-guides"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "0ada11b39151f479be9280fa89aeccc533a3ac503fde328f236720685a5666c0"
+    },
+    {
+      "id": "BbDwBHlNvzo",
+      "publishedAt": "2022-03-22T20:18:36Z",
+      "title": "Are Amazon Renewed computers any good?",
+      "description": "In this episode, we explore if Amazon Renewed computers are any good.",
+      "tags": ["Privacy", "Security", "Amazon", "Renewed", "HP"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "How to self-host hardened Bitcoin node",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-self-host-hardened-bitcoin-node"
+        },
+        {
+          "label": "How to benchmark computer for Bitcoin computation",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-self-host-hardened-bitcoin-node/misc/how-to-benchmark-computer-for-bitcoin-computation"
+        },
+        {
+          "label": "Follow me on Twitter",
+          "url": "https://twitter.com/sunknudsen"
+        },
+        {
+          "label": "Adaptive streaming using HLS proof of concept",
+          "url": "https://github.com/sunknudsen/hls"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "4adbb9eef529b716f877b85678b8c7413cdc9198ece59a59efa05d87e3f59ef2"
+    },
+    {
+      "id": "TgERzndJ_RM",
+      "publishedAt": "2022-03-11T19:51:22Z",
+      "title": "Why self-hosting one’s own Bitcoin node is critical for privacy",
+      "description": "In this episode, we explore why self-hosting one’s own Bitcoin node is critical for privacy.",
+      "tags": ["Privacy", "Security", "Bitcoin"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "How to self-host hardened Bitcoin node",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-self-host-hardened-bitcoin-node"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "5dee8909d0452bef234109854fad908c9dd46c56fff03851e110d1960f7545b7"
+    },
+    {
+      "id": "gFvH12FDW30",
+      "publishedAt": "2022-02-22T15:57:56Z",
+      "title": "18 cores, 32GB of memory and 3TB of NVMe storage pushed to the limit",
+      "description": "In this episode, we explore how 18 cores, 32GB of memory and 3TB of NVMe storage are pushed to the limit.",
+      "tags": ["Privacy", "Security", "Bitcoin"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7a791d40fb37f5148d9546daa1e7a87e96c866a814a18c664079aa46c7c48106"
+    },
+    {
+      "id": "ksGHLcvZpX0",
+      "publishedAt": "2022-02-15T15:47:20Z",
+      "title": "What goes on in the lab when I disappear from YouTube",
+      "description": "In this episode, we explore what goes on in the lab when I disappear from YouTube.",
+      "tags": ["Privacy", "Security", "Bitcoin", "Masterclass"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Donate",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "41aa27a4abb77985d2a75b9ded37b8656a0cd71f84ce14744aab5cdc0f6a2fcd"
+    },
+    {
+      "id": "Bu7T2DkdDoU",
+      "publishedAt": "2022-02-09T22:08:24Z",
+      "title": "Why iPhone can be wiped in seconds while flash storage cannot be secure erased #Privacy #Shorts",
+      "description": "In this episode, we explore why iPhone can be wiped in seconds while flash storage cannot be secure erased.",
+      "tags": ["Privacy", "Security", "iPhone", "iOS", "Cryptography"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Crypto-shredding",
+          "url": "https://en.wikipedia.org/wiki/Crypto-shredding"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bb086304ba76e4ff4ef10fdd01cca381dc58296bbdacacad860cd19389d0951e"
+    },
+    {
+      "id": "3obmd09FgXA",
+      "publishedAt": "2022-02-08T23:31:37Z",
+      "title": "Your computer is leaving a set of breadcrumbs where you go #Privacy #Shorts",
+      "description": "In this episode, we explore why your computer is leaving a set of breadcrumbs where you go.",
+      "tags": ["Privacy", "Security", "Wi-Fi", "MAC address"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-spoof-mac-address-and-hostname-automatically-at-boot-on-macos"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bbc33ae63c73f9c992b3c513863dba1c0eadd13af91e2d61436c29aca39a3b90"
+    },
+    {
+      "id": "SfUbpKCU-mQ",
+      "publishedAt": "2022-02-07T21:23:24Z",
+      "title": "Why I won’t be upgrading to 5G anytime soon #Privacy #Shorts",
+      "description": "In this episode, we explore why I won’t be upgrading to 5G anytime soon.",
+      "tags": ["Privacy", "Security", "5G"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.ycb_hBisSmY"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "699f2bd67de216da7b61d6306c288e59bf0a3dd4d55157343b67f863b241bc37"
+    },
+    {
+      "id": "ycb_hBisSmY",
+      "publishedAt": "2022-02-06T16:11:36Z",
+      "title": "Top 5 important privacy settings on iOS 15 #Privacy #Shorts",
+      "description": "In this episode, we explore top 5 important privacy settings on iOS 15.",
+      "tags": ["Privacy", "Security", "iOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "a5ce471798b3fce4fcaab773691b6d82e7c0404e962abf5087858ede811e2abb"
+    },
+    {
+      "id": "iKpW0GWkKD4",
+      "publishedAt": "2022-01-31T22:28:45Z",
+      "title": "I’m launching my own “Prime” membership",
+      "description": "In this episode, we explore why I’m launching my own “Prime” membership.",
+      "tags": ["Privacy", "Security", "Ghost"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Launching my own “Prime” membership (full story)",
+          "url": "https://sunknudsen.com/launching-my-own-prime-membership"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "1c310a3e88786d49a8efc58dd39ef67402dd4c8001217582768351386e425979"
+    },
+    {
+      "id": "zN0ieF0TiIo",
+      "publishedAt": "2022-01-11T20:16:49Z",
+      "title": "Signal’s founder Moxie Marlinspike steps down as CEO",
+      "description": "In this episode, we explore Signal’s founder Moxie Marlinspike stepping down as CEO.",
+      "tags": ["Privacy", "Security", "Signal"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.uceI0wmpkWI", "video.3zCaP-saTcU"],
+      "links": [
+        {
+          "label": "Signal's Terrible MobileCoin Betrayal",
+          "url": "https://www.youtube.com/watch?v=tJoO2uWrX1M"
+        },
+        {
+          "label": "New year, new CEO",
+          "url": "https://signal.org/blog/new-year-new-ceo/"
+        },
+        {
+          "label": "No, Cellebrite cannot 'break Signal encryption.'",
+          "url": "https://signal.org/blog/cellebrite-and-clickbait/"
+        },
+        {
+          "label": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective",
+          "url": "https://signal.org/blog/cellebrite-vulnerabilities/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "43684837c635a6f575742bec9b5465ae93e1c8cf72c6cfa247f1a94e05f23ebf"
+    },
+    {
+      "id": "GKEEohgtxPk",
+      "publishedAt": "2022-01-06T11:50:07Z",
+      "title": "ProtonMail doesn’t encrypt all emails “by design”",
+      "description": "In this episode, we explore why ProtonMail doesn’t encrypt all emails “by design”.",
+      "tags": ["Privacy", "Security", "ProtonMail", "PGP"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.mE8fL5Fu8x8"],
+      "links": [
+        {
+          "label": "Password policy series",
+          "url": "https://www.youtube.com/playlist?list=PLBTp6wwfQk3gZAESH90PIAbtb7RPXRn6m"
+        },
+        {
+          "label": "How to generate and air gap PGP private keys using GnuPG, Tails and YubiKey",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-generate-and-air-gap-pgp-private-keys-using-gnupg-tails-and-yubikey"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "e0c5144823af4c8e2fde05eb27e01a6b975d3f35e43e5bf5c4d570b0c44f8631"
+    },
+    {
+      "id": "wxzYy6ICH1c",
+      "publishedAt": "2022-01-02T17:21:44Z",
+      "title": "How to accept crypto donations effortlessly and securely using Trezor Suite",
+      "description": "In this episode, we explore how to accept crypto donations effortlessly and securely using Trezor Suite.",
+      "tags": ["Privacy", "Security", "Trezor"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Bitcoin series",
+          "url": "https://www.youtube.com/playlist?list=PLBTp6wwfQk3hG9cZQWZjj35-pPlVtrfyo"
+        },
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-install-and-use-trezor-suite-on-tails"
+        },
+        {
+          "label": "Trezor Suite",
+          "url": "https://suite.trezor.io/"
+        },
+        {
+          "label": "Trezor Store",
+          "url": "https://shop.trezor.io/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "d0adf5900bbb4344be82abd4b6cd2a7fbc0791e39a6701e8e7f9a96ff86a3b35"
+    },
+    {
+      "id": "UNxo481wfGg",
+      "publishedAt": "2022-01-02T17:21:44Z",
+      "title": "Signal leaks our IP “by design”",
+      "description": "In this episode, we explore why Signal leaks our IP “by design”.",
+      "tags": ["Privacy", "Security", "Signal"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.b9aMJZjZ4pw"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "239ea78f5bf813bb711be8887bdb2cb73b6bc190ebc3d5cdc51766e289a65b4c"
+    },
+    {
+      "id": "VVMZxpEokhw",
+      "publishedAt": "2022-01-01T15:25:24Z",
+      "title": "Dropped or adopted in 2021… app and hardware end-of-year review",
+      "description": "In this episode, we explore apps and hardware I dropped or adopted in 2021.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.84sCLhy-rw8", "video.LfNoeu9s93Y"],
+      "links": [
+        {
+          "label": "ProTapes Artist Tape",
+          "url": "https://www.amazon.com/gp/product/B00DVAZYES"
+        },
+        {
+          "label": "QR Bridge",
+          "url": "https://sunknudsen.com/store/qr-bridge"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "80904d887988fbf2222c6a83c8d1c1e548f6afa6d219d4615653a0d8b0fd0de7"
+    },
+    {
+      "id": "I6f_QEtkek8",
+      "publishedAt": "2021-12-22T14:46:49Z",
+      "title": "How to create cryptographically-secure passphrase using dice and EFF wordlist",
+      "description": "In this episode, we explore how to create cryptographically-secure passphrase using dice and EFF wordlist.",
+      "tags": ["Privacy", "Security", "EFF"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Password policy series",
+          "url": "https://www.youtube.com/playlist?list=PLBTp6wwfQk3gZAESH90PIAbtb7RPXRn6m"
+        },
+        {
+          "label": "passphraseme",
+          "url": "https://github.com/micahflee/passphraseme"
+        },
+        {
+          "label": "EFF Dice-Generated Passphrases",
+          "url": "https://www.eff.org/dice"
+        },
+        {
+          "label": "Privacy guides reference material ",
+          "url": "https://sunknudsen.com/privacy-guides"
+        },
+        {
+          "label": "Opt Out",
+          "url": "https://www.optoutpod.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "fba324b38ddbb7762079abda66db6fe7dbc27743c88d7800ad1dd3b62391db31"
+    },
+    {
+      "id": "OtI_4JOVQug",
+      "publishedAt": "2021-12-06T12:58:21Z",
+      "title": "Binance will not let me withdraw my DOGE, NOT YOUR KEYS NOT YOUR COINS",
+      "description": "In this episode, we explore how Binance will not let me withdraw my DOGE and why NOT YOUR KEYS NOT YOUR COINS is an important warning.",
+      "tags": ["Privacy", "Security", "Binance", "Dogecoin"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "0b4705d4db9414ceeb1ba8bbcb4c415d4f4ae2f7bf6d5d3103f3ef46606017f7"
+    },
+    {
+      "id": "s4S7qgCkVCc",
+      "publishedAt": "2021-12-05T14:01:02Z",
+      "title": "How to audit source code of proprietary Electron app",
+      "description": "In this episode, we explore how to audit source code of proprietary Electron app.",
+      "tags": ["Privacy", "Security", "Electron"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Guide",
+          "timestamp": "01:09"
+        }
+      ],
+      "suggestedVideos": ["video.LfNoeu9s93Y"],
+      "links": [
+        {
+          "label": "How to audit source code of proprietary Electron app",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-audit-source-code-of-proprietary-electron-app"
+        },
+        {
+          "label": "QR Bridge",
+          "url": "https://sunknudsen.com/store/qr-bridge"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ade031b5e8443faa172d29c7860ec2e333f02ce5e1dda7cdfac9142739c78ffc"
+    },
+    {
+      "id": "LfNoeu9s93Y",
+      "publishedAt": "2021-12-03T15:36:22Z",
+      "title": "How to share credentials with air-gapped computer without networking or USB",
+      "description": "In this episode, we explore how to share credentials with air-gapped computer without networking or USB using QR Bridge.",
+      "tags": ["Privacy", "Security", "macOS", "Tails", "QR Bridge"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.84sCLhy-rw8", "video.2Em7jpxRrrk"],
+      "links": [
+        {
+          "label": "QR Bridge",
+          "url": "https://sunknudsen.com/store/qr-bridge"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ce84a31b83d996abe9804d506da52451613fc560e26625655fd826ec816d2616"
+    },
+    {
+      "id": "J-fvxuQzyN8",
+      "publishedAt": "2021-11-24T13:39:25Z",
+      "title": "How iOS and macOS Mail Privacy Protection works and compares to using VPN",
+      "description": "In this episode, we explore how how iOS and macOS Mail Privacy Protection works and compares to using VPN.",
+      "tags": ["Privacy", "Security", "Apple", "Mail Privacy Protection"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.4ds-ukcaYXg"],
+      "links": [
+        {
+          "label": "Apple’s privacy pillars in focus",
+          "url": "https://developer.apple.com/videos/play/wwdc2021/10085"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b1ec31679945cb09ba000e4a83a9bb8c1b73a39305a2fe6dfe1950f7c303d2dd"
+    },
+    {
+      "id": "4ds-ukcaYXg",
+      "publishedAt": "2021-11-23T15:24:29Z",
+      "title": "How iCloud Private Relay works and compares to using VPN or Tor",
+      "description": "In this episode, we explore how iCloud Private Relay works and compares to using VPN or Tor.",
+      "tags": ["Privacy", "Security", "Apple", "iCloud Private Relay"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "How TOR Works- Computerphile",
+          "url": "https://www.youtube.com/watch?v=QRYzre4bf7I"
+        },
+        {
+          "label": "About iCloud Private Relay",
+          "url": "https://support.apple.com/en-us/HT212614"
+        },
+        {
+          "label": "Improving DNS Privacy with Oblivious DoH in 1.1.1.1",
+          "url": "https://blog.cloudflare.com/oblivious-dns/"
+        },
+        {
+          "label": "Why Fastly and Cloudflare Shares Jumped Today (and Akamai Ticked Higher)",
+          "url": "https://www.msn.com/en-us/money/topstocks/why-fastly-and-cloudflare-shares-jumped-today-and-akamai-ticked-higher/ar-AANZBvD"
+        },
+        {
+          "label": "Apple’s privacy pillars in focus",
+          "url": "https://developer.apple.com/videos/play/wwdc2021/10085"
+        },
+        {
+          "label": "Onion routing",
+          "url": "https://en.wikipedia.org/wiki/Onion_routing"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "0564abc105a992c8d65ce519b6c380393af6de7036fd533bbb2908be02a491a0"
+    },
+    {
+      "id": "z4ygJ3639TM",
+      "publishedAt": "2021-11-17T14:21:21Z",
+      "title": "Message from the heart",
+      "description": "In this episode, we explore the hustle of caring about privacy and how open source is not free.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "25d439058949f67f99353a464f9c215bf0e9c1cd1fd20c1654b967f6b3b52992"
+    },
+    {
+      "id": "5A6-htFEyTQ",
+      "publishedAt": "2021-09-06T15:34:31Z",
+      "title": "Do this and you should be safe online",
+      "description": "In this episode, we explore how following 7 steps greatly improves one’s online security.",
+      "tags": ["Privacy", "Security", "Password", "Policy"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Using truly random passwords",
+          "timestamp": "02:42"
+        },
+        {
+          "label": "Using full disk encryption",
+          "timestamp": "03:36"
+        },
+        {
+          "label": "Using multi-factor authentication",
+          "timestamp": "03:56"
+        },
+        {
+          "label": "Using password manager",
+          "timestamp": "06:56"
+        },
+        {
+          "label": "Compartmentalize sensitive data and computing",
+          "timestamp": "08:19"
+        },
+        {
+          "label": "Locking screen when one is away and shutting down computer at customs",
+          "timestamp": "10:19"
+        },
+        {
+          "label": "Dropping password rotations unless password is compromised",
+          "timestamp": "11:09"
+        }
+      ],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Password policy series",
+          "url": "https://www.youtube.com/playlist?list=PLBTp6wwfQk3gZAESH90PIAbtb7RPXRn6m"
+        },
+        {
+          "label": "TrustToken",
+          "url": "https://www.trusttoken.com/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        },
+        {
+          "label": "EFF passphrase word list",
+          "url": "https://www.eff.org/dice"
+        },
+        {
+          "label": "passphraseme",
+          "url": "https://github.com/micahflee/passphraseme"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "0435fab88aaff13e87178a1ed2e343233589ddd1cb3b8aaeb0e070ef283fa761"
+    },
+    {
+      "id": "TMEOe3cQVvQ",
+      "publishedAt": "2021-09-05T14:15:41Z",
+      "title": "The “Bank of Spain” buried deep into our computers",
+      "description": "In this episode, we explore how secure elements safeguard one’s most sensitive computing and data.",
+      "tags": ["Privacy", "Security", "Password", "Policy", "Secure element"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Password policy series",
+          "url": "https://www.youtube.com/playlist?list=PLBTp6wwfQk3gZAESH90PIAbtb7RPXRn6m"
+        },
+        {
+          "label": "TrustToken",
+          "url": "https://www.trusttoken.com/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "4fe29b99caad0156b6bc047d97cd583ea5d8dbaac95d7c284993ee6d2b8ad12d"
+    },
+    {
+      "id": "F9c8adV-QxY",
+      "publishedAt": "2021-09-01T19:27:00Z",
+      "title": "Encryption would not be possible without these",
+      "description": "In this episode, we explore how key derivation functions are used to derive 256-bit encryption keys from passwords.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Password",
+        "Policy",
+        "Key derivation function"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Password policy series",
+          "url": "https://www.youtube.com/playlist?list=PLBTp6wwfQk3gZAESH90PIAbtb7RPXRn6m"
+        },
+        {
+          "label": "TrustToken",
+          "url": "https://www.trusttoken.com/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ae1394bcdefd71b7a23a8e60542a50d964df5193e48ef20b640bd9de6de9be03"
+    },
+    {
+      "id": "7QVwaA2bpCE",
+      "publishedAt": "2021-08-26T14:03:38Z",
+      "title": "How computers keep us safe from hackers using random numbers",
+      "description": "In this episode, we explore how computers keep us safe from hackers using hardware random number generators.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Password",
+        "Policy",
+        "Hardware random number generator"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.NrYhdkrTNMI"],
+      "links": [
+        {
+          "label": "TrustToken",
+          "url": "https://www.trusttoken.com/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ac146a7b3732c172c6ee292d5515d72ff043416452b0d2fd3ddf134a2e67d6c0"
+    },
+    {
+      "id": "NrYhdkrTNMI",
+      "publishedAt": "2021-08-20T20:25:13Z",
+      "title": "What is password entropy and why it really, really, matters",
+      "description": "In this episode, we explore password entropy and why it really, really, matters.",
+      "tags": ["Privacy", "Security", "Password", "Policy"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.bPE3XkPgkRg"],
+      "links": [
+        {
+          "label": "How secure is 256 bit security?",
+          "url": "https://www.youtube.com/watch?v=S9JGmA5_unY"
+        },
+        {
+          "label": "TrustToken",
+          "url": "https://www.trusttoken.com/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b2760c7c92c737e78822e21a2d4534cb15b734ed759bbe77dffb6402ce0646e3"
+    },
+    {
+      "id": "bPE3XkPgkRg",
+      "publishedAt": "2021-08-19T14:15:44Z",
+      "title": "Common password misconceptions that fooled me at first",
+      "description": "In this episode, we explore common password misconceptions that fooled me at first.",
+      "tags": ["Privacy", "Security", "Password", "Policy"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.5JzazHi7ku0", "video.ykgcLabQ39k"],
+      "links": [
+        {
+          "label": "TrustToken",
+          "url": "https://www.trusttoken.com/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "2b755fc51ad95c2060edb3a54dee26c0daa23774fd2dde5dcdc37f866d2b5dd6"
+    },
+    {
+      "id": "ykgcLabQ39k",
+      "publishedAt": "2021-08-14T22:25:39Z",
+      "title": "Being at the top of the privacy subreddit for all the wrong reasons",
+      "description": "In this episode, we explore being at the top of the privacy subreddit for all the wrong reasons.",
+      "tags": ["Privacy", "Security", "Reddit", "Censorship"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.5JzazHi7ku0"],
+      "links": [
+        {
+          "label": "Privacy & Freedom in the Information Age",
+          "url": "https://www.reddit.com/r/privacy/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "9df456fdf32c6d5e33ece69fef7c2bb64ccd41899c5a5c97f22e480c76fabff8"
+    },
+    {
+      "id": "5JzazHi7ku0",
+      "publishedAt": "2021-08-13T20:44:06Z",
+      "title": "Censored by moderators of the privacy subreddit…",
+      "description": "In this behind-the-scenes episode, we explore how I have been censored by moderators of the privacy subreddit.",
+      "tags": ["Privacy", "Security", "Reddit", "Censorship"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Removed the privacy subreddit post",
+          "url": "https://www.reddit.com/r/privacy/comments/p3m9v7/exploring_the_password_policy_rabbit_hole_how_to/"
+        },
+        {
+          "label": "Exploring the password policy rabbit hole",
+          "url": "https://sunknudsen.com/stories/exploring-the-password-policy-rabbit-hole"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "a63217b12b38d3cc67da8a8a7a6f05527b7355f2e972b4d17e272bfd93cbcf94"
+    },
+    {
+      "id": "VGGzsQ2xSKs",
+      "publishedAt": "2021-07-13T15:22:49Z",
+      "title": "How to use biometric fingerprint readers without using one’s fingers",
+      "description": "In this episode, we explore how to use biometric fingerprint readers without using one’s fingers.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Biometric",
+        "Fingerprint",
+        "Samsung T7 Touch"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "I Replaced My Fingerprints With Prosthetics to Avoid Surveillance",
+          "url": "https://www.vice.com/en/article/yp3nzb/i-replaced-my-fingerprints-with-prosthetics-to-avoid-surveillance"
+        },
+        {
+          "label": "Fake fingerprints can imitate real ones in biometric systems – research",
+          "url": "https://www.theguardian.com/technology/2018/nov/15/fake-fingerprints-can-imitate-real-fingerprints-in-biometric-systems-research"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b00599d572a6374cc8a967df5a45cb44bb1622babed76ddb0665b268537f0797"
+    },
+    {
+      "id": "_7r44zbyL9E",
+      "publishedAt": "2021-07-11T15:18:02Z",
+      "title": "How to not bring one’s Bitcoin holding to the grave while remaining sovereign",
+      "description": "In this episode, we explore how to not bring one’s BITCOIN HOLDING to the GRAVE while remaining sovereign.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Bitcoin",
+        "Cryptography",
+        "Shamir Secret Sharing"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.2Em7jpxRrrk"],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-create-encrypted-paper-backup"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ad09de12da878e8ccd093e53ff4a7b2e667ceb9f365793464ed036bf054decff"
+    },
+    {
+      "id": "2Em7jpxRrrk",
+      "publishedAt": "2021-07-10T17:09:13Z",
+      "title": "The world’s most advanced paper backup hardware device is at your fingertips",
+      "description": "In this episode, we explore the world’s most advanced paper backup hardware device.",
+      "tags": ["Privacy", "Security", "Bitcoin", "Raspberry Pi"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Demo",
+          "timestamp": "05:45"
+        },
+        {
+          "label": "Setup guide using signed release",
+          "timestamp": "14:52"
+        }
+      ],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-create-encrypted-paper-backup"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "06ea71c95e375cd86e90f6a9620b8af553526a1f8eb8eb085d6d506a92a039cd"
+    },
+    {
+      "id": "GJ31v-7g4Qo",
+      "publishedAt": "2021-07-08T13:41:19Z",
+      "title": "Why multisig is insanely secure and how to setup 2-of-3 Electrum Bitcoin wallet",
+      "description": "In this episode, we explore why multisig is insanely secure and how to setup 2-of-3 Electrum Bitcoin wallet.",
+      "tags": ["Privacy", "Security", "Bitcoin", "Electrum", "Trezor"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Why multisig is insanely secure",
+          "timestamp": "01:38"
+        },
+        {
+          "label": "Setting up 2-of-3 Electrum Bitcoin wallet",
+          "timestamp": "06:50"
+        }
+      ],
+      "suggestedVideos": ["video.1cz_ViFB6eE"],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "How to install and use Electrum over Tor on macOS",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-install-and-use-electrum-over-tor-on-macos"
+        },
+        {
+          "label": "How to manage Trezor devices using trezorctl on macOS or Tails",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-manage-trezor-devices-using-trezorctl-on-macos-or-tails"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "1509e116eb029e64f6b3fa1fd17b6b93ac716cc90121ea1b9ece4ade25e07c69"
+    },
+    {
+      "id": "0yWBYL9_uq4",
+      "publishedAt": "2021-06-30T00:44:14Z",
+      "title": "How to manage Trezor devices using trezorctl on macOS or Tails",
+      "description": "In this episode, we explore how to manage Trezor devices using trezorctl on macOS or Tails.",
+      "tags": ["Privacy", "Security", "Bitcoin", "Trezor"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Setup guide",
+          "timestamp": "02:13"
+        },
+        {
+          "label": "Usage guide",
+          "timestamp": "05:31"
+        }
+      ],
+      "suggestedVideos": [
+        "video.m6S-vjU6E1s",
+        "video.K-FSfjLVno4",
+        "video.HHFvJYiciRU",
+        "video.USXac3qx0g0"
+      ],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-manage-trezor-devices-using-trezorctl-on-macos-or-tails"
+        },
+        {
+          "label": "How to use Trezor Suite on Tails",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-install-and-use-trezor-suite-on-tails"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bb8fbcfc3d2e72cacae111f5616a85f8e2487965ce65c15fd48fa83a94c599ab"
+    },
+    {
+      "id": "QQsAu-9brYY",
+      "publishedAt": "2021-06-25T13:45:15Z",
+      "title": "How to install and use Electrum over Tor on macOS",
+      "description": "In this episode, we explore how to install and use Electrum over Tor on macOS.",
+      "tags": ["Privacy", "Security", "Bitcoin", "Electrum", "Tor"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.S8UQ3MfRkx4"],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-install-and-use-electrum-over-tor-on-macos"
+        },
+        {
+          "label": "Electrum Seed Version System",
+          "url": "https://electrum.readthedocs.io/en/latest/seedphrase.html#motivation"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "e1e3cdebd792361cc152045a1bb55e90937faf7b05d49b228a70e91c883f7f5a"
+    },
+    {
+      "id": "S8UQ3MfRkx4",
+      "publishedAt": "2021-06-22T23:57:41Z",
+      "title": "Bitcoin is not private by design… here’s why and how Monero is different",
+      "description": "In this episode, we explore why Bitcoin is not private by design and how Monero is different.",
+      "tags": ["Privacy", "Security", "Cryptocurrencies", "Bitcoin", "Monero"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Get in touch for consulting",
+          "url": "https://sunknudsen.com/contact"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "c60000e488cacb7949bd1748bba5c159d0eb68d7fc17958683a64cb37c774436"
+    },
+    {
+      "id": "HHFvJYiciRU",
+      "publishedAt": "2021-06-19T16:28:13Z",
+      "title": "Trezor One vs Model T vs COLDCARD and how to safely source hardware wallet",
+      "description": "In this episode, we explore Trezor One vs Model T vs COLDCARD and how to safely source hardware wallet.",
+      "tags": ["Privacy", "Security", "Cryptocurrencies", "Trezor", "COLDCARD"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Comments disclaimer",
+          "timestamp": "00:23"
+        },
+        {
+          "label": "Ledger disclaimer",
+          "timestamp": "00:41"
+        },
+        {
+          "label": "Shakepay shout-out",
+          "timestamp": "01:37"
+        },
+        {
+          "label": "Quick overview of Trezor One vs Model T vs COLDCARD",
+          "timestamp": "03:51"
+        },
+        {
+          "label": "Trezor One",
+          "timestamp": "05:07"
+        },
+        {
+          "label": "Trezor Model T",
+          "timestamp": "07:39"
+        },
+        {
+          "label": "COLDCARD Mk3",
+          "timestamp": "11:37"
+        },
+        {
+          "label": "Safely sourcing hardware wallet",
+          "timestamp": "14:34"
+        }
+      ],
+      "suggestedVideos": ["video.USXac3qx0g0"],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Ledger store",
+          "url": "https://shop.ledger.com/"
+        },
+        {
+          "label": "Trezor store",
+          "url": "https://shop.trezor.io/"
+        },
+        {
+          "label": "Coinkite store",
+          "url": "https://store.coinkite.com/store"
+        },
+        {
+          "label": "Get in touch for consulting",
+          "url": "https://sunknudsen.com/contact"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "6b5d4362ebdad5e14c307911ab7978ce10d15bb58178cb0d68dc0793c405315d"
+    },
+    {
+      "id": "USXac3qx0g0",
+      "publishedAt": "2021-06-17T14:58:20Z",
+      "title": "How to secure Bitcoin holdings",
+      "description": "In this episode, we explore how to secure Bitcoin holdings.",
+      "tags": ["Privacy", "Security", "Cryptocurrencies", "Bitcoin"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.kZ4NHz-gjLo"],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Trezor",
+          "url": "https://trezor.io/"
+        },
+        {
+          "label": "Get in touch for consulting",
+          "url": "https://sunknudsen.com/contact"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "9e7eb87cb9edd2a6ca6156347433e99395fad9a073d46bc3c699bea7731f9bc7"
+    },
+    {
+      "id": "m9FOBFbUCGU",
+      "publishedAt": "2021-06-15T17:39:21Z",
+      "title": "Custodial vs non-custodial and why one should not hodl Bitcoin on exchanges",
+      "description": "In this episode, we explore custodial vs non-custodial and why one should not hold Bitcoin on exchanges.",
+      "tags": ["Privacy", "Security", "Cryptocurrencies", "Bitcoin"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.UhQvuyjaJOI"],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Bull Bitcoin",
+          "url": "https://bullbitcoin.com/"
+        },
+        {
+          "label": "Get in touch for consulting",
+          "url": "https://sunknudsen.com/contact"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "dc42a249da937b22a8525046299660fad4d2b7d634137088610d2aaf37e82ee5"
+    },
+    {
+      "id": "UhQvuyjaJOI",
+      "publishedAt": "2021-06-14T19:56:29Z",
+      "title": "Bitcoin series intro",
+      "description": "In this episode, we layout content of Bitcoin series.",
+      "tags": ["Privacy", "Security", "Cryptocurrencies", "Bitcoin"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.kZ4NHz-gjLo"],
+      "links": [
+        {
+          "label": "Shakepay",
+          "url": "https://shakepay.com/"
+        },
+        {
+          "label": "Get in touch for consulting",
+          "url": "https://sunknudsen.com/contact"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "35b36d064b43007fa353212c06a21670885f5c43422bf18dd8f9c87ca38c96ca"
+    },
+    {
+      "id": "gAxRmukBsPA",
+      "publishedAt": "2021-05-28T17:02:40Z",
+      "title": "How to safely store data for extended periods of time",
+      "description": "In this episode, we explore how to safely store data for extended periods of time.",
+      "tags": ["Privacy", "Security", "Backups"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.qPAOMczcuZw"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-back-up-and-encrypt-data-using-rsync-and-veracrypt-on-macos"
+        },
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-create-encrypted-paper-backup"
+        },
+        {
+          "label": "Get in touch",
+          "url": "https://sunknudsen.com/contact"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7ab96ae728d6a9041f97f0fee86f644e44b673b18e76d431ef6c1303903e5ade"
+    },
+    {
+      "id": "ZlWNmpFxk1g",
+      "publishedAt": "2021-05-27T14:25:08Z",
+      "title": "How to install VeraCrypt persistently on Tails",
+      "description": "In this episode, we explore how to install VeraCrypt persistently on Tails.",
+      "tags": ["Privacy", "Security", "Tails", "VeraCrypt"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-install-and-use-veracrypt-on-tails"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "0151e07e9879f00c8a589443c8eeec547609ffb4e43d16249fb019fdf77092f0"
+    },
+    {
+      "id": "P6YmdRryKZU",
+      "publishedAt": "2021-05-24T15:53:40Z",
+      "title": "Reset",
+      "description": "In this episode, I talk about why I decided to disable ads, remove Amazon affiliate links and shut down merch.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "DO NOT TRACK merch graphics",
+          "url": "https://github.com/sunknudsen/privacy-guides/tree/master/files/do-not-track-graphics"
+        },
+        {
+          "label": "LinkedIn profile",
+          "url": "https://www.linkedin.com/in/sunknudsen/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "32535843fa3befb924d23dfd084062271950a58a0b9763dfde0ef03249686fa5"
+    },
+    {
+      "id": "kZ4NHz-gjLo",
+      "publishedAt": "2021-05-07T22:48:50Z",
+      "title": "Why Tails is not only for hacktivists and whistleblowers and how to get started",
+      "description": "In this episode, we explore why Tails is not only for hacktivists and whistleblowers and how to get started.",
+      "tags": ["Privacy", "Security", "Tails"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Why Tails is not only for hacktivists and whistleblowers",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "How to get started",
+          "timestamp": "05:45"
+        }
+      ],
+      "suggestedVideos": ["video.WnNfunEJdQY"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-install-tails-on-usb-flash-drive-or-sd-card"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": ["Opted out from Amazon affiliate program"],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "70494a15b5a1dc6fa568e4390e826ad6ff159db62aa12a525538aa097f7d94c4"
+    },
+    {
+      "id": "29q26leyuIQ",
+      "publishedAt": "2021-04-08T14:07:41Z",
+      "title": "How to use Google services more privately",
+      "description": "In this episode, we explore how to use Google services more privately.",
+      "tags": ["Privacy", "Security", "Google"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.NH4DdXC0RFw",
+        "video.TAPYn6FC5t8",
+        "video.nK76EKvburA"
+      ],
+      "links": [
+        {
+          "label": "Privagy guides on 2FA",
+          "url": "https://www.youtube.com/c/SunKnudsen/search?query=2fa"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b6fe661139c19009d734297f48ac010b1e3861c9d0479a2d7fdc4d87835b2a92"
+    },
+    {
+      "id": "PY2gzNrK9Wc",
+      "publishedAt": "2021-04-06T20:11:24Z",
+      "title": "How to use Time Machine and APFS snapshots on macOS",
+      "description": "In this episode, we explore how to use Time Machine and APFS snapshots on macOS.",
+      "tags": ["Privacy", "Security", "macOS", "Time Machine", "APFS"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "label": "Why use Time Machine and APFS snapshots?",
+          "timestamp": "00:40"
+        },
+        {
+          "label": "Setting up and using Time Machine",
+          "timestamp": "06:42"
+        },
+        {
+          "label": "Using APFS snapshots",
+          "timestamp": "17:20"
+        }
+      ],
+      "suggestedVideos": [
+        "video.1cz_ViFB6eE",
+        "video.qPAOMczcuZw",
+        "video.asZX2YbTaNE"
+      ],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-use-time-machine-and-apfs-snapshots-on-macos"
+        },
+        {
+          "label": "How to peer review and sign guide",
+          "url": "https://sunknudsen.com/privacy-guides/docs#how-to-peer-review-and-sign-guide"
+        },
+        {
+          "label": "Privacy guides discussions",
+          "url": "https://github.com/sunknudsen/privacy-guides/discussions"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "44354570ff55b0cb13ac3bc42c0f54843fa92e62fc99e3c133bb4303ade4b347"
+    },
+    {
+      "id": "sC_V5l2Y37k",
+      "publishedAt": "2021-03-26T12:59:10Z",
+      "title": "How PGP digital signatures increase privacy and help decentralize the Internet",
+      "description": "In this episode, we explore how PGP digital signatures increase privacy and help decentralize the Internet.",
+      "tags": ["Privacy", "Security", "macOS", "PGP", "GnugPG"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.WnNfunEJdQY",
+        "video.vC7fZv13aXM",
+        "video.wFZvMnCi7DI"
+      ],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "491bec4705d29a2222ae71ce3bf4214cfe876e1f270741aa872464c7cf6ddedf"
+    },
+    {
+      "id": "WnNfunEJdQY",
+      "publishedAt": "2021-03-25T19:34:32Z",
+      "title": "How to verify PGP digital signatures using GnuPG on macOS",
+      "description": "In this episode, we explore how to verify PGP digital signatures using GnuPG on macOS.",
+      "tags": ["Privacy", "Security", "macOS", "PGP", "GnugPG"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.mE8fL5Fu8x8"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-verify-pgp-digital-signatures-using-gnupg-on-macos"
+        },
+        {
+          "label": "GnuPG",
+          "url": "https://gnupg.org/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "dbc3e5d1d00b0a1101a695da1d3a6e80aa643797496f92874ca1ffc84a7e3441"
+    },
+    {
+      "id": "Z5gqd0vp2zE",
+      "publishedAt": "2021-03-23T15:02:34Z",
+      "title": "This episode is dedicated to Aaron Swartz",
+      "description": "In this episode, we pay homage to Aaron Swartz.",
+      "tags": ["Privacy", "Security", "Aaron Swartz"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.1bk8YFsgVms"],
+      "links": [
+        {
+          "label": "Aaron Swartz",
+          "url": "https://en.wikipedia.org/wiki/Aaron_Swartz"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "d62dc0611ce5e8342a5cd40e1bff52f3e60e66910f5a661775b092d862c756ef"
+    },
+    {
+      "id": "1bk8YFsgVms",
+      "publishedAt": "2021-03-22T23:20:25Z",
+      "title": "The hustle",
+      "description": "In this episode, we explore the hustle that goes into the privacy guides project and why I started accepting donations.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Rewiring our mind to reclaim privacy online | Sun Knudsen | TEDxTKMCE",
+          "url": "https://www.youtube.com/watch?v=iCWJAhvHMW4"
+        },
+        {
+          "label": "Lickstats",
+          "url": "https://lickstats.com/en"
+        },
+        {
+          "label": "Privacy guides discussions",
+          "url": "https://github.com/sunknudsen/privacy-guides/discussions"
+        },
+        {
+          "label": "tube-manager",
+          "url": "https://github.com/sunknudsen/tube-manager"
+        },
+        {
+          "label": "Liberapay",
+          "url": "https://liberapay.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "8b4ceae230ddb96b922fb90d8047bf1e98b40ac4cb621124e33b94c5439ce4c1"
+    },
+    {
+      "id": "rh0bO2oHO9E",
+      "publishedAt": "2021-03-13T20:21:09Z",
+      "title": "Undo",
+      "description": "In this episode, we undo last two episodes.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7a8e8d8e4538d47c97dfd226249451f1f856d93dda4bb498e8d0a65e82bc62f6"
+    },
+    {
+      "id": "hjK0wy_L_w8",
+      "publishedAt": "2021-03-09T15:59:44Z",
+      "title": "Resurfacing from the rabbit hole",
+      "description": "In this behind-the-scenes episode, we explore where I have been.",
+      "tags": ["Privacy", "Security", "CMS", "Bitcoin"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Sun Knudsen — Privacy and security researcher",
+          "url": "https://sunknudsen.com"
+        },
+        {
+          "label": "Privacy guides repo",
+          "url": "https://sunknudsen.com/privacy-guides"
+        },
+        {
+          "label": "sharp-watch on npm",
+          "url": "https://www.npmjs.com/package/sharp-watch"
+        },
+        {
+          "label": "tube-manager on npm",
+          "url": "https://github.com/sunknudsen/tube-manager"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "2ffc7625a3fe230792e49f65093ed0ed9a71cc6f38735f9a5bc5264effc69249"
+    },
+    {
+      "id": "wFZvMnCi7DI",
+      "publishedAt": "2021-01-12T13:11:58Z",
+      "title": "What Parler’s shutdown means for freedom of speech",
+      "description": "In this episode, we explore what Parler’s shutdown means for freedom of speech.",
+      "tags": ["Privacy", "Security", "Freedom of speech", "Parler"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.uceI0wmpkWI"],
+      "links": [
+        {
+          "label": "Parler",
+          "url": "https://parler.com/"
+        },
+        {
+          "label": "Google suspends Parler social network app over incitement to violence",
+          "url": "https://www.theguardian.com/us-news/2021/jan/09/google-suspends-parler-social-network-app-over-incitement-to-violence"
+        },
+        {
+          "label": "Facebook Fallout Deals Blow to Mercers’ Political Clout",
+          "url": "https://www.nytimes.com/2018/04/10/us/politics/mercer-family-cambridge-analytica.html"
+        },
+        {
+          "label": "Giving social networking back to you - Mastodon",
+          "url": "https://joinmastodon.org/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "e2fd4500980993661690ab66c2f8c6acc765e801319be4900af83d6033b6f605"
+    },
+    {
+      "id": "uceI0wmpkWI",
+      "publishedAt": "2021-01-10T16:12:01Z",
+      "title": "Why it’s time to drop WhatsApp and switch to Signal",
+      "description": "In this episode, we explore why it’s time to drop WhatsApp and switch to Signal.",
+      "tags": ["Privacy", "Security", "WhatsApp", "Signal"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.MxULcUA4B5U", "video.b9aMJZjZ4pw"],
+      "links": [
+        {
+          "label": "Signal",
+          "url": "https://www.signal.org/"
+        },
+        {
+          "label": "Paul Manafort’s Terrible Encrypted Messaging OPSEC Got Him Additional Charges",
+          "url": "https://www.vice.com/en/article/zm8q43/paul-manafort-icloud-whatsapp-bad-opsec-witness-tampering"
+        },
+        {
+          "label": "NSA Prism program slides",
+          "url": "https://www.theguardian.com/world/interactive/2013/nov/01/prism-slides-nsa-document"
+        },
+        {
+          "label": "The Cambridge Analytica scandal changed the world – but it didn't change Facebook",
+          "url": "https://www.theguardian.com/technology/2019/mar/17/the-cambridge-analytica-scandal-changed-the-world-but-it-didnt-change-facebook"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "761ada72c848275ba304870fce6b9f9ff3e1740f3cec92946b0926d576af6815"
+    },
+    {
+      "id": "gTq0932Fcp8",
+      "publishedAt": "2021-01-08T20:36:37Z",
+      "title": "How to fix Joe Rogan’s Signal contact discovery issue on iOS",
+      "description": "In this episode, we explore how to fix Joe Rogan’s Signal contact discovery issue on iOS.",
+      "tags": ["Privacy", "Security", "iOS", "Signal", "Joe Rogan"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.b9aMJZjZ4pw", "video.3zCaP-saTcU"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-create-signal-account-without-using-personal-phone-number"
+        },
+        {
+          "label": "#1572 - Moxie Marlinspike",
+          "url": "https://open.spotify.com/episode/2uVHiMqqJxy8iR2YB63aeP?si=deOAzH7JT-GjRVZ0M7NgAw"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ee90f6fcd5915b2cf620db379a697802a07ad66b47b31e4a52508ac8571ac2b6"
+    },
+    {
+      "id": "mSibcNslSK8",
+      "publishedAt": "2021-01-05T15:16:44Z",
+      "title": "How to make sure app is not running in the background on macOS",
+      "description": "In this episode, we explore how to make sure app is not running in the background on macOS (using the “Adobe Creative Suite” case study).",
+      "tags": ["Privacy", "Security", "macOS", "Adobe"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "Guide",
+          "timestamp": "3:58"
+        },
+        {
+          "label": "Why I didn’t switch to DaVinci Resolve",
+          "timestamp": "16:10"
+        },
+        {
+          "label": "Code walkthrough",
+          "timestamp": "18:00"
+        }
+      ],
+      "suggestedVideos": ["video.Ye2zaHbn3TI", "video.K-FSfjLVno4"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-make-sure-app-is-not-running-in-the-background-on-macos"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "eab8f75ab8e1786dbdb523ae350439169c177cd6d918187065d4d081bb8a929a"
+    },
+    {
+      "id": "Ye2zaHbn3TI",
+      "publishedAt": "2021-01-02T16:29:32Z",
+      "title": "Trade-offs and why Adobe makes me sick",
+      "description": "In this episode, we explore trade-offs and why Adobe makes me sick.",
+      "tags": ["Privacy", "Security", "Adobe"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "59bf37ac33a428c54964632b0e48cbd01810e430dfd14062beed1e1fdcd9d99b"
+    },
+    {
+      "id": "g_5uk5UkLgw",
+      "publishedAt": "2020-12-31T21:35:41Z",
+      "title": "How to reset app privacy permissions on macOS",
+      "description": "In this episode, we explore how to reset app privacy permissions on macOS.",
+      "tags": ["Privacy", "Security", "macOS"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "Guide",
+          "timestamp": "2:30"
+        },
+        {
+          "label": "Privacy matters project",
+          "timestamp": "7:12"
+        }
+      ],
+      "suggestedVideos": ["video.Qr3Z8C1OAGc"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-reset-app-privacy-permissions-on-macos"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "649045fd0da46428f77c59f63c7086411c94cdf45f1868ae1261756f14bda153"
+    },
+    {
+      "id": "6PPisyWoZFo",
+      "publishedAt": "2020-12-24T14:54:02Z",
+      "title": "We’re over 9,000-strong",
+      "description": "In this behind-the-scenes episode, we celebrate the fact we’re over 9,000-strong and explore the critical role developers and technology entrepreneurs have in the context of privacy.",
+      "tags": ["Privacy", "Security"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.Qr3Z8C1OAGc"],
+      "links": [
+        {
+          "label": "Privacy matters — Sun Knudsen",
+          "url": "https://sunknudsen.com/privacy-matters"
+        },
+        {
+          "label": "Lickstats - YouTube",
+          "url": "https://www.youtube.com/lickstats"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b3207688ef232d790dab9ac5f18b95c9cb5bb4f8a73625dc12be395d9f608e43"
+    },
+    {
+      "id": "Qr3Z8C1OAGc",
+      "publishedAt": "2020-12-18T15:13:06Z",
+      "title": "Sharing why privacy matters to you",
+      "description": "In this episode, we explore how to share why privacy matters to you.",
+      "tags": ["Privacy", "Security", "Privacy matters"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.mVMGiMFGgsU"],
+      "links": [
+        {
+          "label": "Privacy matters — Sun Knudsen",
+          "url": "https://sunknudsen.com/privacy-matters"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "c9987dffe8f3efec67a56da58c05b71077a2d8bfb0ac7bcf03510317c0f497a8"
+    },
+    {
+      "id": "yFIvJKMC1Eo",
+      "publishedAt": "2020-12-15T19:09:18Z",
+      "title": "Borg mini-series finale and back to regular programming",
+      "description": "In this episode, we wrap the Borg mini-series and get back to regular programming.",
+      "tags": ["Privacy", "Security", "Raspberry Pi", "Borg"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "Recap",
+          "timestamp": "1:26"
+        },
+        {
+          "label": "Guide",
+          "timestamp": "4:35"
+        }
+      ],
+      "suggestedVideos": [
+        "video.asZX2YbTaNE",
+        "video.g73XmszOwYs",
+        "video.z8hizZRX5-4",
+        "video.rzEaxL6F2Eg",
+        "video.6R8uKdstnts",
+        "video.fW1TUByQqk8"
+      ],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": ["Opted out from Amazon affiliate program"],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "d9257d1c0b114aa58aaf4d2c56eceed9f60876ad365fc0012b4ac793eef14bc0"
+    },
+    {
+      "id": "fW1TUByQqk8",
+      "publishedAt": "2020-12-11T12:45:20Z",
+      "title": "How to configure strongSwan client on headless Debian-based Linux computer",
+      "description": "In this episode, we learn how to configure strongSwan client on headless Debian-based Linux computer.",
+      "tags": ["Privacy", "Security", "Debian", "VPN", "strongSwan"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.6R8uKdstnts",
+        "video.HY3F_vHuTFQ",
+        "video.wsYYGrEXWnk"
+      ],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-strongswan-client-on-headless-debian-based-linux-computer"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7249322cb2a5a012f6e4ba28b71083a7eb72ef6d9e0f6a5c218cc227b53590d4"
+    },
+    {
+      "id": "6R8uKdstnts",
+      "publishedAt": "2020-12-10T22:09:18Z",
+      "title": "How to configure hardened Raspberry Pi",
+      "description": "In this episode, we learn how to configure hardened Raspberry Pi.",
+      "tags": ["Privacy", "Security", "Debian", "Raspberry Pi"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.wsYYGrEXWnk", "video.z8hizZRX5-4"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-hardened-raspberry-pi"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": ["Opted out from Amazon affiliate program"],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "85708c2efef3856661ec5fb5c2827f83a413ce2af625815fc8d1f9274dc29238"
+    },
+    {
+      "id": "rzEaxL6F2Eg",
+      "publishedAt": "2020-12-08T20:44:32Z",
+      "title": "How to self-host hardened Borg server",
+      "description": "In this episode, we learn how to self-host hardened Borg server.",
+      "tags": ["Privacy", "Security", "Debian", "VPS", "Borg"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.z8hizZRX5-4",
+        "video.g73XmszOwYs",
+        "video.HY3F_vHuTFQ"
+      ],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-hardened-debian-server"
+        },
+        {
+          "label": "1984",
+          "url": "https://1984hosting.com/"
+        },
+        {
+          "label": "BorgBackup",
+          "url": "https://www.borgbackup.org/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "13985b509d669d24d1862b23dfc778a2801de0169a17b35e6fc71e640a315a53"
+    },
+    {
+      "id": "z8hizZRX5-4",
+      "publishedAt": "2020-12-08T14:28:19Z",
+      "title": "How to configure hardened Debian server",
+      "description": "In this episode, we learn how to configure hardened Debian server.",
+      "tags": ["Privacy", "Security", "Debian", "VPS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.UedA_Dvwjuw",
+        "video.HY3F_vHuTFQ",
+        "video.Upib_vq_EB8",
+        "video.zcq2iZUcQQY"
+      ],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-hardened-debian-server"
+        },
+        {
+          "label": "1984",
+          "url": "https://1984hosting.com/"
+        },
+        {
+          "label": "Njalla",
+          "url": "https://njal.la/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "25f14fd550d6842203e489c301aebc650b3d6ba39fc234f56aea401cb2603017"
+    },
+    {
+      "id": "g73XmszOwYs",
+      "publishedAt": "2020-12-07T22:19:29Z",
+      "title": "How to configure Borg client on macOS using command-line",
+      "description": "In this episode, we learn how to configure Borg client on macOS using command line.",
+      "tags": ["Privacy", "Security", "macOS", "Borg", "Borg Wrapper"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "RAID 10 vs RAID 6 vs RAID-Z3",
+          "timestamp": "4:08"
+        },
+        {
+          "label": "Guide",
+          "timestamp": "7:14"
+        }
+      ],
+      "suggestedVideos": [
+        "video.asZX2YbTaNE",
+        "video.HY3F_vHuTFQ",
+        "video.1cz_ViFB6eE"
+      ],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-borg-client-on-macos-using-command-line"
+        },
+        {
+          "label": "Borg",
+          "url": "https://www.borgbackup.org/"
+        },
+        {
+          "label": "BorgBase",
+          "url": "https://www.borgbase.com/"
+        },
+        {
+          "label": "rsync.net",
+          "url": "https://rsync.net/products/attic.html"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "a2681a2e73ecefc79f8663dc333424197d3129a55996b33ce6ad317ab7308044"
+    },
+    {
+      "id": "asZX2YbTaNE",
+      "publishedAt": "2020-11-20T19:34:30Z",
+      "title": "How to back up data privately and securely to the cloud using Borg and Vorta",
+      "description": "In this episode, we learn how to back up data privately and securely to the cloud using Borg and Vorta.",
+      "tags": ["Privacy", "Security", "macOS", "Borg", "Vorta"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Intro",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "Borg",
+          "timestamp": "2:04"
+        },
+        {
+          "label": "Vorta",
+          "timestamp": "6:53"
+        }
+      ],
+      "suggestedVideos": ["video.1cz_ViFB6eE", "video.K-FSfjLVno4"],
+      "links": [
+        {
+          "label": "Privacy guides reference material",
+          "url": "https://sunknudsen.com/privacy-guides"
+        },
+        {
+          "label": "Borg",
+          "url": "https://www.borgbackup.org/"
+        },
+        {
+          "label": "Vorta",
+          "url": "https://vorta.borgbase.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7b47144b2c698fb64e304cffed40b588f6d84856aba8654cbfa5c32c9e933c0d"
+    },
+    {
+      "id": "K-FSfjLVno4",
+      "publishedAt": "2020-11-16T00:20:21Z",
+      "title": "More on trustd and how Little Snitch allows us to see the invisible",
+      "description": "In this episode, we learn more on trustd and how Little Snitch allows us to see the invisible.",
+      "tags": ["Privacy", "Security", "macOS", "Little Snitch"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "More on trustd",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "How Little Snitch allows us to see the invisible",
+          "timestamp": "4:37"
+        }
+      ],
+      "suggestedVideos": [
+        "video.l9kSZuqcqN4",
+        "video.uJBgb8XJoA8",
+        "video.vC7fZv13aXM",
+        "video.HY3F_vHuTFQ",
+        "video.1cz_ViFB6eE"
+      ],
+      "links": [
+        {
+          "label": "Does Apple really log every app you run? A technical look – Jacopo Jannone - blog",
+          "url": "https://blog.jacopo.io/en/post/apple-ocsp/"
+        },
+        {
+          "label": "Little Snitch",
+          "url": "https://www.obdev.at/products/littlesnitch/index.html"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "469017058be03ddd0dac9cc9f3f208a6b178e67a8df2879f1d4ae4d16d29a781"
+    },
+    {
+      "id": "vC7fZv13aXM",
+      "publishedAt": "2020-11-14T16:10:58Z",
+      "title": "Down the “Your Computer Isn't Yours” rabbit hole and how to patch macOS",
+      "description": "In this episode, we go down the “Your Computer Isn't Yours” rabbit hole and explore how to patch macOS.\n\nPatch 👉 echo \"127.0.0.1 ocsp.apple.com\" | sudo tee -a /etc/hosts\n\nUndo patch 👉 sudo sed -i \"\" \"/ocsp\\.apple\\.com/d\" /etc/hosts",
+      "tags": ["Privacy", "Security", "macOS", "trustd"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Down the rabbit hole",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "Patch",
+          "timestamp": "5:35"
+        }
+      ],
+      "suggestedVideos": ["video.sdohcouTUhQ"],
+      "links": [
+        {
+          "label": "Jeffrey Paul: Your Computer Isn't Yours",
+          "url": "https://sneak.berlin/20201112/your-computer-isnt-yours/"
+        },
+        {
+          "label": "Little Snitch",
+          "url": "https://www.obdev.at/products/littlesnitch/index.html"
+        }
+      ],
+      "credits": ["Shout-out to Jeffrey Paul for breaking this story!"],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "4867ae0eeb805e65d9d3e38fa3fe94820c45c0e07ff751fcc9c5af237323531a"
+    },
+    {
+      "id": "b9UZBiCQvbE",
+      "publishedAt": "2020-11-13T21:36:18Z",
+      "title": "Why I don’t recommend using Drive or Dropbox for backups",
+      "description": "In this episode, we explore why I don’t recommend using Drive or Dropbox for backups.",
+      "tags": ["Privacy", "Security", "DropBox", "Google Drive", "Borg"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Status update",
+          "timestamp": "0:00"
+        },
+        {
+          "label": "Episode",
+          "timestamp": "2:22"
+        }
+      ],
+      "suggestedVideos": ["video.1cz_ViFB6eE"],
+      "links": [
+        {
+          "label": "TEDxTKMCE",
+          "url": "https://tedxtkmce.in"
+        },
+        {
+          "label": "dropbox-upload",
+          "url": "https://github.com/sunknudsen/dropbox-upload"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "673ef2fe58e1474c943e259c6f5fb333ae7fe40577a04332a92816eb10b2bca7"
+    },
+    {
+      "id": "oi8D1fakX-s",
+      "publishedAt": "2020-10-16T18:35:59Z",
+      "title": "How QR codes could be used as a secure transport for passwords",
+      "description": "In this episode, we explore how QR codes could be used as a secure transport for passwords.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Password manager",
+        "1Password",
+        "Bitwarden"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.eu3iP1njMRI"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "acd7d3cb6d63169bb803eeff6f02e6e90f2ca9acd59c38918db299288d7f88ad"
+    },
+    {
+      "id": "fSZ62ztKRSA",
+      "publishedAt": "2020-10-13T16:24:40Z",
+      "title": "First look at Bitcoin and how to improve security of paper backups",
+      "description": "In this episode, we have a first look at Bitcoin and how to improve security of paper backups.",
+      "tags": ["Privacy", "Security", "Bitcoin", "Paper backup", "QR code"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Privacy guides repo (please star)",
+          "url": "https://sunknudsen.com/privacy-guides"
+        },
+        {
+          "label": "New YouTube channel (please sub)",
+          "url": "https://www.youtube.com/channel/UCqAvfmnkAPnm8O80xfAPBNw?view_as=subscriber"
+        },
+        {
+          "label": "qr-backup",
+          "url": "https://github.com/sunknudsen/qr-backup"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "8f7e3e575f6a99165740499dd16325213ad5c48d8d3450799af34a7721f0ad91"
+    },
+    {
+      "id": "BPxTUxz7K5E",
+      "publishedAt": "2020-10-08T20:06:31Z",
+      "title": "Talking about creativity and why tube-manager is a godsend for content creators",
+      "description": "In this episode, we talk about creativity and why tube-manager is steroids for content creators.\n\nThis episode was published using tube-manager.",
+      "tags": ["Privacy", "Security", "Creativity", "YouTube", "PeerTube"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "timestamp": "0:00",
+          "label": "Intro"
+        },
+        {
+          "timestamp": "0:32",
+          "label": "No more trackers"
+        },
+        {
+          "timestamp": "1:40",
+          "label": "Thanks!"
+        },
+        {
+          "timestamp": "2:30",
+          "label": "tube-manager"
+        }
+      ],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "tube-manager",
+          "url": "https://www.npmjs.com/package/tube-manager"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "59e23fcaedd65f6998cc1611f3879874a66b8adb11bb6de49fed5bef80135898"
+    },
+    {
+      "id": "84sCLhy-rw8",
+      "publishedAt": "2020-09-29T20:05:08Z",
+      "title": "Why I use macOS vs Linux as my daily driver",
+      "description": "In this episode, we explore why I use macOS vs Linux as my daily driver.",
+      "tags": ["Privacy", "Security", "macOS", "Linux"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Intel Management Engine",
+          "url": "https://en.wikipedia.org/wiki/Intel_Management_Engine"
+        }
+      ],
+      "credits": [
+        {
+          "label": "Music by astrokid",
+          "url": "https://www.youtube.com/channel/UC6oyZUPB97qY3lx7OvLOVYg"
+        }
+      ],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "f185aaf44aca2c34bafe5303e95219996f62002045f9a0994fbe98a217adaaf0"
+    },
+    {
+      "id": "0nVOB0EE5ps",
+      "publishedAt": "2020-09-26T14:19:09Z",
+      "title": "How to clean uninstall macOS apps using AppCleaner open source alternative",
+      "description": "In this episode, we explore how to clean uninstall macOS apps using AppCleaner open source alternative.",
+      "tags": ["Privacy", "Security", "macOS", "AppCleaner"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-clean-uninstall-macos-apps-using-appcleaner-open-source-alternative"
+        },
+        {
+          "label": "Privacy guides repo",
+          "url": "https://sunknudsen.com/privacy-guides"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "9caf5a02f7b665682b2b4061402bc146669a25a049b455625afa21cbdc854eee"
+    },
+    {
+      "id": "01PgqzLjfuI",
+      "publishedAt": "2020-09-24T16:15:53Z",
+      "title": "The hardened two-factor authentication problem",
+      "description": "In this episode, we explore the hardened two-factor authentication problem.",
+      "tags": ["Privacy", "Security", "2FA", "1984"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.VZlzPKJP4TQ", "video.7nu04NBH2Qc"],
+      "links": [
+        {
+          "label": "1984",
+          "url": "https://1984hosting.com/"
+        },
+        {
+          "label": "TOTP",
+          "url": "https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm"
+        },
+        {
+          "label": "OTP",
+          "url": "https://developers.yubico.com/OTP/OTPs_Explained.html"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7540237759df7e85be9932e864953a1b1b483c400cc90a5e7620f69ddcedde8e"
+    },
+    {
+      "id": "qPAOMczcuZw",
+      "publishedAt": "2020-09-11T20:29:16Z",
+      "title": "More on rsync and VeraCrypt backups on macOS and introducing the privacy guides docs",
+      "description": "In this behind-the-scenes episode, I explain the thought process that lead to a major update of the VeraCrypt guide addressing many additional threat models. I also introduce the privacy guides docs and a system put in place to welcome peer review and establish a web of trust.\n\nCommand to remove legacy version of backup.sh 👉 `rm /usr/local/sbin/backup.sh`",
+      "tags": ["Privacy", "Security", "Backups", "VeraCrypt", "rsync", "macOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.1cz_ViFB6eE"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-back-up-and-encrypt-data-using-rsync-and-veracrypt-on-macos"
+        },
+        {
+          "label": "OTP",
+          "url": "https://developers.yubico.com/OTP/OTPs_Explained.html"
+        },
+        {
+          "label": "OTP",
+          "url": "https://developers.yubico.com/OTP/OTPs_Explained.html"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": ["Opted out from Amazon affiliate program"],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "666416c8d7a96c4aeb6023652aad994df10bbd280d5cde316a29b1dc29b5314e"
+    },
+    {
+      "id": "1cz_ViFB6eE",
+      "publishedAt": "2020-08-28T13:07:18Z",
+      "title": "How to back up and encrypt data using rsync and VeraCrypt on macOS (see change log)",
+      "description": "In this episode, we explore how to back up and encrypt data using rsync and VeraCrypt on macOS.",
+      "tags": ["Privacy", "Security", "Backups", "VeraCrypt", "rsync", "macOS"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "timestamp": "0:00",
+          "label": "Intro"
+        },
+        {
+          "timestamp": "4:44",
+          "label": "Guide"
+        }
+      ],
+      "suggestedVideos": ["video.qPAOMczcuZw"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-back-up-and-encrypt-data-using-rsync-and-veracrypt-on-macos"
+        },
+        {
+          "label": "VeraCrypt",
+          "url": "https://www.veracrypt.fr/en/Home.html"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [
+        "Reference material has been updated so what you see in this episode might differ",
+        "Opted out from Amazon affiliate program"
+      ],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "0dc1ebb06f852576c68e846b2e11fbe79b06e819c6072fc7894ceb200a28e3dc"
+    },
+    {
+      "id": "wsYYGrEXWnk",
+      "publishedAt": "2020-08-25T21:01:05Z",
+      "title": "How to configure self-hosted VPN kill switch using PF firewall on macOS",
+      "description": "In this episode, we explore how to configure self-hosted VPN kill switch using PF firewall on macOS.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "macOS",
+        "PF",
+        "Firewall",
+        "VPN",
+        "Kill switch"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.HY3F_vHuTFQ"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-self-hosted-vpn-kill-switch-using-pf-firewall-on-macos"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7b608448eeacb26a1dcaaa5d533d1655f5e38e7b8df0b46ae456b384550c2fac"
+    },
+    {
+      "id": "HY3F_vHuTFQ",
+      "publishedAt": "2020-08-17T23:05:17Z",
+      "title": "How to self-host hardened strongSwan IKEv2/IPsec VPN server for iOS and macOS",
+      "description": "In this episode, we explore how to self-host hardened strongSwan IKEv2/IPsec VPN server for iOS and macOS.",
+      "tags": ["Privacy", "Security", "VPN", "strongSwan", "macOS", "iOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.Nzx9T7GtmT4", "video.zcq2iZUcQQY"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-self-host-hardened-strongswan-ikev2-ipsec-vpn-server-for-ios-and-macos"
+        },
+        {
+          "label": "1984",
+          "url": "https://1984hosting.com/"
+        },
+        {
+          "label": "Njalla",
+          "url": "https://njal.la/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "1967d4394af8b772e71464ba6ad7fdc522939b73852d9b4e759809b0a9b22aad"
+    },
+    {
+      "id": "zcq2iZUcQQY",
+      "publishedAt": "2020-08-13T20:18:52Z",
+      "title": "How to benchmark server performance using Speedtest and SysBench",
+      "description": "In this episode, we explore how to benchmark server performance using Speedtest and SysBench.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Server",
+        "VPS",
+        "Benchmarking",
+        "1984",
+        "Njalla",
+        "DigitalOcean"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.Nzx9T7GtmT4"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-benchmark-server-performance-using-speedtest-and-sysbench"
+        },
+        {
+          "label": "1984",
+          "url": "https://1984hosting.com/"
+        },
+        {
+          "label": "Njalla",
+          "url": "https://njal.la/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "dce3923c45955fc2e9be24c67d367f8d997010e0361dd243cc03f0e442aa72ec"
+    },
+    {
+      "id": "UedA_Dvwjuw",
+      "publishedAt": "2020-08-13T12:02:01Z",
+      "title": "How to choose a hosting provider for privacy (introducing 1984 and Njalla)",
+      "description": "In this episode, we explore how to choose a hosting provider for privacy (introducing 1984 and Njalla).",
+      "tags": ["Privacy", "Security", "Hosting", "VPS", "1984", "Njalla"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.MxULcUA4B5U",
+        "video.VZlzPKJP4TQ",
+        "video.MxULcUA4B5U"
+      ],
+      "links": [
+        {
+          "label": "TBP AKF",
+          "url": "https://www.youtube.com/watch?v=eTOKXCEwo_8"
+        },
+        {
+          "label": "TOTP specs",
+          "url": "https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm"
+        },
+        {
+          "label": "Yubico OTP specs",
+          "url": "https://developers.yubico.com/OTP/OTPs_Explained.html"
+        },
+        {
+          "label": "1984",
+          "url": "https://1984hosting.com/"
+        },
+        {
+          "label": "Njalla",
+          "url": "https://njal.la/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "424dd0a5f0f188f2c8b43c61a6d1cb05789a6b659214d5c2445b1601fc70e21a"
+    },
+    {
+      "id": "UWBtPMWbSeo",
+      "publishedAt": "2020-08-11T21:42:20Z",
+      "title": "Where I’ve been, updates to CMS, introducing draft.sunknudsen.com and signed git commits",
+      "description": "In this behind-the-scenes episode, I explain where I’ve been, present updates to my custom content management system (CMS), introduce https://draft.sunknudsen.com/ and signed git commits.\n\nHow to disable IPv6 on iOS (cellular only) and macOS and why it’s a big deal for privacy 👉 https://www.youtube.com/watch?v=Nzx9T7GtmT4\n\nDraft 👉 https://draft.sunknudsen.com/",
+      "tags": ["Privacy", "Security", "strongSwan"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.Nzx9T7GtmT4"],
+      "links": [
+        {
+          "label": "Draft",
+          "url": "https://draft.sunknudsen.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "f61d1e0a46d5d8930ec1e5718d9616d985c12aa35221dd6f311d6d9c48ff43eb"
+    },
+    {
+      "id": "Nzx9T7GtmT4",
+      "publishedAt": "2020-07-18T23:29:56Z",
+      "title": "How to disable IPv6 on iOS (cellular-only) and macOS (see change log)",
+      "description": "In this episode, we explore how to disable IPv6 on iOS (cellular-only) and macOS.",
+      "tags": ["Privacy", "Security", "Networking", "IPv6", "iOS", "macOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.TAPYn6FC5t8", "video.ASXANpr_zX8"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-disable-ipv6-on-ios-cellular-only-and-macos"
+        },
+        {
+          "label": "Are devices connected to strongSwan servers that don’t support IPv6 vulnerable to IPv6 leaks?",
+          "url": "https://serverfault.com/questions/1025466/are-devices-connected-to-strongswan-servers-that-don-t-support-ipv6-vulnerable-t"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [
+        {
+          "type": "warning",
+          "timestamp": "8:20",
+          "message": "“Default APN Supported IP Versions” should be set to “IPv4”"
+        }
+      ],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "387ebb0003e2e16eaba64b5f14340ea027ebe90964cd8efe935872ad36b2e360"
+    },
+    {
+      "id": "Th79uRcexfQ",
+      "publishedAt": "2020-07-07T23:42:20Z",
+      "title": "Why I favor Mullvad over other third-party VPNs and how to set things up",
+      "description": "In this episode, we explore why I favor Mullvad over other third-party VPNs and how to set things up.",
+      "tags": ["Privacy", "Security", "VPN", "macOS", "Mullvad"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.C_V9blT3q38"],
+      "links": [
+        {
+          "label": "An introduction to QubesOS - Fredrik Strömberg",
+          "url": "https://www.youtube.com/watch?v=oDR6VyzimPQ"
+        },
+        {
+          "label": "PeerTube",
+          "url": "https://peertube.sunknudsen.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "32908d5b21d52e81a9e2310075e44d0101afab05e418951ba3f65b6bb41d0fba"
+    },
+    {
+      "id": "LkGecksq8Qc",
+      "publishedAt": "2020-07-03T16:28:24Z",
+      "title": "We’re over 1,000-strong and the privacy guides are now federated on PeerTube",
+      "description": "In this behind-the-scenes episode, I celebrate the fact we’re over 1,000-strong and the privacy guides are now federated on PeerTube.",
+      "tags": ["Privacy", "Security", "PeerTube"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.m1R9lKa3ELk"],
+      "links": [
+        {
+          "label": "Last Week Tonight with John Oliver - Facial Recognition",
+          "url": "https://www.youtube.com/watch?v=jZjmlJPJgug"
+        },
+        {
+          "label": "CreativeMornings",
+          "url": "https://www.creativemornings.com/"
+        },
+        {
+          "label": "PeerTube",
+          "url": "https://joinpeertube.org/en/"
+        },
+        {
+          "label": "Sun Knudsen PeerTube",
+          "url": "https://peertube.sunknudsen.com/"
+        },
+        {
+          "label": "PrivacyTools PeerTube",
+          "url": "https://tube.privacytools.io/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "6e2cd4a63203ad5ccefa5b2a786fcd41d4c448471648b60756a0efc4328c69ad"
+    },
+    {
+      "id": "lWuVErrkbAE",
+      "publishedAt": "2020-06-30T14:41:20Z",
+      "title": "Why we can’t trust our home or any other wireless network",
+      "description": "In this episode, we explore why we can’t trust our home or any other wireless network.",
+      "tags": ["Privacy", "Security", "Wi-Fi", "Networking", "macOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.vlY_ud4unMw", "video.ASXANpr_zX8"],
+      "links": [
+        {
+          "label": "KRACK Attacks: Breaking WPA2",
+          "url": "https://www.krackattacks.com/"
+        },
+        {
+          "label": "KRACK - Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2",
+          "url": "https://www.youtube.com/watch?v=fOgJswt7nAc"
+        },
+        {
+          "label": "HowToDecrypt802.11 - The Wireshark Wiki",
+          "url": "https://wiki.wireshark.org/HowToDecrypt802.11"
+        },
+        {
+          "label": "Wi-Fi deauthentication attack",
+          "url": "https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack"
+        },
+        {
+          "label": "Mullvad",
+          "url": "https://mullvad.net/en"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "def1a445f4d19872d2293f7b4b070fa6bdb790f40543c8e4c29fea0a3fde630a"
+    },
+    {
+      "id": "mVMGiMFGgsU",
+      "publishedAt": "2020-06-25T21:12:02Z",
+      "title": "How to remove EXIF metadata from images on macOS",
+      "description": "In this episode, we explore how to remove EXIF metadata from images on macOS.",
+      "tags": ["Privacy", "Security", "macOS", "CLI", "EXIF"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.nK76EKvburA",
+        "video.mE8fL5Fu8x8",
+        "vivdeo.NH4DdXC0RFw"
+      ],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-remove-exif-metadata-from-images-on-macos"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "a1becbbfb73d10feb7afcbd346ac75f881cc6842419796c178f56c910ef6161a"
+    },
+    {
+      "id": "sdohcouTUhQ",
+      "publishedAt": "2020-06-23T20:17:05Z",
+      "title": "How to prevent Apple from keylogging what is typed in Spotlight Search",
+      "description": "In this episode, we explore how to prevent Apple from keylogging what is typed in Spotlight Search.\n\nCommand used to capture keylogging 👉 sudo tcpdump | grep \"api-bos.smoot.apple.com\"",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Apple",
+        "macOS",
+        "Spotlight",
+        "Spotlight Suggestions"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.uJBgb8XJoA8"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "dfbf78b50f72018c13107b7c3374cb77ec0eb71599ad804251d11f9d778789fa"
+    },
+    {
+      "id": "m1R9lKa3ELk",
+      "publishedAt": "2020-06-22T20:06:23Z",
+      "title": "Thanks Reddit and syndicating this channel to PeerTube (would love to get your feedback)",
+      "description": "In this behind-the-scenes episode, I express gratitude for the Reddit r/privacy community and share my thoughts on syndicating this channel to PeerTube.\n\nReddit post 👉 https://www.reddit.com/r/privacy/comments/hc0a9c/it_is_me_or_youtube_attempts_to_kill_privacy/",
+      "tags": ["PeerTube"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Reddit post",
+          "url": "https://www.reddit.com/r/privacy/comments/hc0a9c/it_is_me_or_youtube_attempts_to_kill_privacy/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bcb3a33fd3ee03e1b70c6b276c7e94d1ce58381bc816b4fb8a619824c2f65e08"
+    },
+    {
+      "id": "mE8fL5Fu8x8",
+      "publishedAt": "2020-06-19T11:32:51Z",
+      "title": "How to encrypt, sign and decrypt messages using GnuPG on macOS",
+      "description": "In this episode, we explore how how to encrypt, sign and decrypt messages using GnuPG on macOS.",
+      "tags": ["Privacy", "Security", "Email", "Encryption", "PGP", "GnuPG"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.l9kSZuqcqN4",
+        "video.3zCaP-saTcU",
+        "video.ASXANpr_zX8",
+        "video.VZlzPKJP4TQ",
+        "video.Bpc3EEQ-GoA"
+      ],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "This link was forcefully removed by YouTube (please search for “How to encrypt, sign and decrypt messages using PGP on macOS” on https://sunknudsen.com/privacy-guides)"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "66c3d17cd89e5eb4f20dc32e4ab7697a163d67118925da0f03a55f7d6499dae2"
+    },
+    {
+      "id": "HjDX1j0ADfQ",
+      "publishedAt": "2020-06-18T10:45:28Z",
+      "title": "Reference material consolidated to sunknudsen.com",
+      "description": "In this behind-the-scenes episode, I share why I consolidated the reference material to sunknudsen.com (goodbye gists and legacy privacy-guides).",
+      "tags": [],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "f9ca63c74aa2ac6cb51450c735046aa94d46954f204cf9fec5a4e1a5a041dc05"
+    },
+    {
+      "id": "l9kSZuqcqN4",
+      "publishedAt": "2020-06-17T14:00:21Z",
+      "title": "Why email is shitty for privacy",
+      "description": "In this episode, we explore why email is shitty for privacy.",
+      "tags": ["Privacy", "Security", "Email"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.3zCaP-saTcU"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "fdbb55654a2fcd52e687371618590def5587c75e53edd2ca7c046ccfb5feacdb"
+    },
+    {
+      "id": "Smbd17quDhw",
+      "publishedAt": "2020-06-15T13:31:52Z",
+      "title": "How VPNs and proxies work and why using the right one is critical to privacy",
+      "description": "In this episode, we explore how VPNs and proxies work and why using the right one is critical to privacy.",
+      "tags": ["Privacy", "Security", "VPN", "Proxy", "Tor"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.C_V9blT3q38", "video.ASXANpr_zX8"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bb1fef530ac92ee5345720fab899de7c77f2d63b9f9ec063a14c75fdce03c02f"
+    },
+    {
+      "id": "C_V9blT3q38",
+      "publishedAt": "2020-06-13T21:04:17Z",
+      "title": "How to use Google services without compromising privacy using Tor",
+      "description": "In this episode, we explore how to use Google services without compromising privacy using Tor.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Google",
+        "Tor",
+        "Tor browser",
+        "Dark web"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.NH4DdXC0RFw", "video.uYoJ7U0OMCY"],
+      "links": [
+        {
+          "label": "Onion Routing - Computerphile",
+          "url": "https://www.youtube.com/watch?v=QRYzre4bf7I"
+        },
+        {
+          "label": "Sun Knudsen — Privacy and security researcher",
+          "url": "http://sunknudsenq6j34p.onion/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7e42e8f213a53162dd9aeb787618f38a4ada4df7d7b79ec2496345143ab1d432"
+    },
+    {
+      "id": "22nh6BxfrZI",
+      "publishedAt": "2020-06-11T15:27:59Z",
+      "title": "How privacy apps remove trust from the equation to protect themselves and users",
+      "description": "In this episode, we explore how privacy apps remove trust from the equation to protect themselves and users.",
+      "tags": ["Privacy", "Security", "Apps", "Trust"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.m6S-vjU6E1s", "video.VZlzPKJP4TQ"],
+      "links": [
+        {
+          "label": "The New Firefox: By the Numbers",
+          "url": "https://blog.mozilla.org/firefox/the-new-firefox-by-the-numbers/"
+        },
+        {
+          "label": "Secret Key Exchange (Diffie-Hellman) - Computerphile",
+          "url": "https://www.youtube.com/watch?v=NmM9HA2MQGI"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "1aad64cab46d541cbf97c21304bef9197d3236d6dcba8416835e7adb7adb52f6"
+    },
+    {
+      "id": "m6S-vjU6E1s",
+      "publishedAt": "2020-06-10T17:30:05Z",
+      "title": "Why browser extensions such as AdBlock can be dangerous for privacy",
+      "description": "In this episode, we explore why browser extensions such as AdBlock can be dangerous for privacy.\n\nSpoiler: AdBlock has been acquired by an undisclosed buyer, uses Google Analytics to “aggregate information about traffic patterns and how [their] website and extension are used” and “sometimes share[s] anonymized and aggregated information that cannot be associated with an individual with third parties or the public”.",
+      "tags": ["Privacy", "Security", "Browser", "Extension", "AdBlock"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.MxULcUA4B5U"],
+      "links": [
+        {
+          "label": "Adblock extension with 40 million users sells to mystery buyer, refuses to name new owner",
+          "url": "https://thenextweb.com/apps/2015/10/02/trust-us-we-block-ads/"
+        },
+        {
+          "label": "AdBlock Privacy Policy",
+          "url": "https://getadblock.com/privacy/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "744d905d2cc176771888fc37da21f26be4b1e98f6290b4a5105c9ba538c71327"
+    },
+    {
+      "id": "vlY_ud4unMw",
+      "publishedAt": "2020-06-08T18:33:47Z",
+      "title": "Why using hola! (or any other free VPN) is a very bad idea",
+      "description": "In this episode, we explore why using hola! (or any other free VPN) is a very bad idea.",
+      "tags": ["Privacy", "Security", "VPN", "Hola", "Luminati"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.MxULcUA4B5U"],
+      "links": [
+        {
+          "label": "Popular Chrome extension Hola sold users' bandwidth for botnets",
+          "url": "https://www.theverge.com/2015/5/29/8685251/hola-vpn-botnet-selling-users-bandwidth"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "93a9ac59e4a5b210bb84fe04171c4859916f5d1e4ab56ca7a659603c51f6dd96"
+    },
+    {
+      "id": "QaG3pqSo8lY",
+      "publishedAt": "2020-06-07T10:56:24Z",
+      "title": "Why Startpage isn’t “The world’s most private search engine”",
+      "description": "In this episode, we explore why Startpage isn’t “The world’s most private search engine”.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Search engines",
+        "Startpage",
+        "DuckDuckGo"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.MxULcUA4B5U"],
+      "links": [
+        {
+          "label": "Startpage Acquired by System1, Privacy One Group – Still Safe?",
+          "url": "https://restoreprivacy.com/startpage-system1-privacy-one-group/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "9b71d18d46de6763cf47c34df0dd5c2e8c83d513bdd6f528a889211c46436a23"
+    },
+    {
+      "id": "eGyFkLB9HJ8",
+      "publishedAt": "2020-06-07T00:19:16Z",
+      "title": "The privacy guides community is growing",
+      "description": "In this behind-the-scenes episode, I share why I care about behind-the-scenes and celebrate a first milestone (people are watching these episodes around the clock because of you).\n\nTHANKS!",
+      "tags": [],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "ba73ac1df55dc39a285c0a583714bdec201aa91c24642fd4131ae1bca31f3977"
+    },
+    {
+      "id": "d_M18sq0TIQ",
+      "publishedAt": "2020-06-05T21:13:59Z",
+      "title": "How to protect Mac computers from cold boot attacks",
+      "description": "In this episode, we explore how to protect Mac computers from cold boot attacks.",
+      "tags": ["Privacy", "Security", "macOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.uJBgb8XJoA8"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-protect-mac-computers-from-cold-boot-attacks"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "9f4b4e2c0d0188485da7531466314ea56bf69365878cd085a9fe9340a3069ab2"
+    },
+    {
+      "id": "b9aMJZjZ4pw",
+      "publishedAt": "2020-06-04T13:25:05Z",
+      "title": "How to create Signal account without using personal phone number",
+      "description": "In this episode, we explore how to create Signal account without using personal phone number.",
+      "tags": ["Privacy", "Security", "iOS", "macOS", "Messaging", "Signal"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.3zCaP-saTcU", "video.MxULcUA4B5U"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-create-signal-account-without-using-personal-phone-number"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b7d3d2d27f53dc3b00db83b214bdb95b3397e1fb80d352a2afb61f6e39976c58"
+    },
+    {
+      "id": "MxULcUA4B5U",
+      "publishedAt": "2020-06-02T18:10:17Z",
+      "title": "Mark vs Pavel vs Moxie and why governance is everything",
+      "description": "In this episode, we explore why governance is everything.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Messaging",
+        "Telegram",
+        "WhatsApp",
+        "Signal",
+        "Governance"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.3zCaP-saTcU"],
+      "links": [
+        {
+          "label": "Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us",
+          "url": "https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/"
+        },
+        {
+          "label": "WhatsApp Co-Founder Puts $50M Into Signal To Supercharge Encrypted Messaging",
+          "url": "https://www.wired.com/story/signal-foundation-whatsapp-brian-acton/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "46a249fb3890a555a8777534f99d41a10818075defba1f71a134ac0475ae12c9"
+    },
+    {
+      "id": "3zCaP-saTcU",
+      "publishedAt": "2020-05-31T19:33:49Z",
+      "title": "Why Signal is more private and secure than iMessage and SMS",
+      "description": "In this episode, we explore why Signal is more private and secure than iMessage and SMS.",
+      "tags": ["Privacy", "Security", "GSM", "SMS", "iMessage", "Signal"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.VZlzPKJP4TQ", "video.NH4DdXC0RFw"],
+      "links": [
+        {
+          "label": "How hard is it to intercept SMS (two-factor authentication)?",
+          "url": "https://security.stackexchange.com/a/11512"
+        },
+        {
+          "label": "Hacking 4G and how to get arrested in 10 minutes - Christian Sørseth",
+          "url": "https://www.youtube.com/watch?v=DEeOFE_DreU"
+        },
+        {
+          "label": "Signal",
+          "url": "https://signal.org/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "09bedcd3ef5a6be091d861db21e4264b3ef059026a6405435024255841c5646e"
+    },
+    {
+      "id": "EiDtomF41qY",
+      "publishedAt": "2020-05-28T13:12:32Z",
+      "title": "How to configure Firefox for privacy on iPhone and iPad",
+      "description": "In this episode, we explore how to configure Firefox for privacy on iPhone and iPad.",
+      "tags": ["Privacy", "Security", "iOS", "iPhone", "iPad", "Firefox"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.NH4DdXC0RFw",
+        "video.eu3iP1njMRI",
+        "video.VZlzPKJP4TQ",
+        "video.nK76EKvburA"
+      ],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "a5fcfe43c02c2c14026944daa3ce1b4c041ff971b622b59d5627d0afa20942ad"
+    },
+    {
+      "id": "nK76EKvburA",
+      "publishedAt": "2020-05-26T13:26:24Z",
+      "title": "How to configure iOS for privacy",
+      "description": "In this episode, we explore how to configure iOS for privacy. This guide applies to iPhone and iPad.",
+      "tags": ["Privacy", "Security", "iOS", "iPhone", "iPad"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.TAPYn6FC5t8",
+        "video.VZlzPKJP4TQ",
+        "video.uJBgb8XJoA8",
+        "video.eu3iP1njMRI"
+      ],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "da56ee0c70ce3150ef220b0bd06adb41c8a65f0b7c442bcd86da98a29791c30d"
+    },
+    {
+      "id": "TAPYn6FC5t8",
+      "publishedAt": "2020-05-23T15:39:23Z",
+      "title": "Why I don’t trust my iPhone (or any other smartphone) in the context of privacy",
+      "description": "In this episode, we explore why I don’t trust my iPhone (or any other smartphone) in the context of privacy.",
+      "tags": ["Privacy", "Security", "Smartphone", "iOS", "Android"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.kdaGgEd9L9Q",
+        "video.uJBgb8XJoA8",
+        "video.ASXANpr_zX8"
+      ],
+      "links": [
+        {
+          "label": "How Google--and everyone else--gets Wi-Fi location data",
+          "url": "https://www.zdnet.com/article/how-google-and-everyone-else-gets-wi-fi-location-data/"
+        },
+        {
+          "label": "Google admits collecting Wi-Fi data through Street View cars",
+          "url": "https://www.theguardian.com/technology/2010/may/15/google-admits-storing-private-data"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7f8f3a7b61518a83b38bdb5d65ff0a6f24a901a6ee975eaba0f6910ad00694f1"
+    },
+    {
+      "id": "kdaGgEd9L9Q",
+      "publishedAt": "2020-05-22T16:37:33Z",
+      "title": "How to make cheap, no residue and reusable iPhone camera privacy covers",
+      "description": "In this episode, we explore how to make cheap, no residue and reusable iPhone camera privacy covers.",
+      "tags": ["Privacy", "Security", "iPhone", "DIY", "CameraCovers"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": ["Opted out from Amazon affiliate program"],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "3afa28dddcd8a7fcbb4a9f1da773637f64d57c4d6f517e7bdb1fce1a3a82be1d"
+    },
+    {
+      "id": "X29yLK8bRzg",
+      "publishedAt": "2020-05-21T17:37:22Z",
+      "title": "Why private mode is for watching porn and that’s about it",
+      "description": "In this episode, we explore why private mode is for watching porn and that’s about it.",
+      "tags": ["Privacy", "Security", "Browser", "Private mode"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [
+        "video.NH4DdXC0RFw",
+        "video.Upib_vq_EB8",
+        "video.uYoJ7U0OMCY"
+      ],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "9f9ccbe5bdea42f9a582646f41bddb69c7b0eec2de713bbd68553addfa58efdc"
+    },
+    {
+      "id": "ASXANpr_zX8",
+      "publishedAt": "2020-05-19T14:57:15Z",
+      "title": "How to spoof MAC address and hostname automatically at boot on macOS",
+      "description": "In this episode, we explore how to spoof MAC address and hostname automatically at boot on macOS.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "macOS",
+        "MAC Address",
+        "Hostname",
+        "Spoofing"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-spoof-mac-address-and-hostname-automatically-at-boot-on-macos"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "99a404595c6c9abbf592d1f73ec0ee5cabba90002590d55b589e1a2de6ad27b5"
+    },
+    {
+      "id": "uYoJ7U0OMCY",
+      "publishedAt": "2020-05-15T19:43:02Z",
+      "title": "How to mitigate fingerprinting and IP leaks using Firefox advanced preferences (see change log)",
+      "description": "In this episode, we explore how to mitigate fingerprinting and IP leaks using Firefox advanced preferences.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "macOS",
+        "Firefox",
+        "Fingerprinting",
+        "VPN",
+        "IP leak"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.NH4DdXC0RFw", "video.Upib_vq_EB8"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-configure-firefox-for-privacy-and-security"
+        },
+        {
+          "label": "Restore Privacy guide",
+          "url": "https://restoreprivacy.com/firefox-privacy/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [
+        {
+          "type": "warning",
+          "timestamp": "0:00",
+          "message": "Please watch https://www.youtube.com/watch?v=s-vwthG28ks for updated guide."
+        }
+      ],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "012687d0f7ccca1431994065b3a49a722603bacd7034a1c4e3c5cf5761e144bc"
+    },
+    {
+      "id": "Upib_vq_EB8",
+      "publishedAt": "2020-05-14T00:34:00Z",
+      "title": "How to use multiple compartmentalized Firefox instances using profiles",
+      "description": "In this episode, we explore how to use multiple compartmentalized Firefox instances using profiles.\n\nHeads-up: in the second command, make sure you replace work by the name of your profile. If the name includes spaces, please use quotes (example: `-p \"Work Profile\"`).",
+      "tags": [
+        "Privacy",
+        "Security",
+        "macOS",
+        "Firefox",
+        "Compartmentalization"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.NH4DdXC0RFw"],
+      "links": [
+        {
+          "label": "Reference material",
+          "url": "https://sunknudsen.com/privacy-guides/how-to-use-multiple-compartmentalized-firefox-instances-simultaneously-using-profiles"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "b240daef4dae1dcd0b4dc2114f420bf43f5fd73e1885fc3aed2bf3264409485a"
+    },
+    {
+      "id": "7nu04NBH2Qc",
+      "publishedAt": "2020-05-11T22:28:35Z",
+      "title": "Why most 2FA implementations are nasty and how to setup OTP Auth on iOS",
+      "description": "In this episode, we explore why most 2FA implementations are nasty and how to setup OTP Auth on iOS.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "Infosec",
+        "Opsec",
+        "iOS",
+        "2FA",
+        "OTP Auth"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.VZlzPKJP4TQ"],
+      "links": [
+        {
+          "label": "Have I been pwned?",
+          "url": "https://haveibeenpwned.com/"
+        },
+        {
+          "label": "OTP Auth",
+          "url": "https://apps.apple.com/us/app/otp-auth/id659877384"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bacf421ba907e6f6686b2051b29bbfe32dc37859b877abed012df05dcb952686"
+    },
+    {
+      "id": "VZlzPKJP4TQ",
+      "publishedAt": "2020-05-08T22:42:53Z",
+      "title": "Why well-implemented 2FA mitigates both infosec and opsec attack vectors",
+      "description": "In this episode, we explore why well-implemented 2FA mitigates both infosec and opsec attack vectors.",
+      "tags": ["Privacy", "Security", "macOS", "Infosec", "Opsec", "2FA"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "63748adb2be2ea90408849d7391d465e6d064ca7ecc8fa65f6ae939b49ccd78f"
+    },
+    {
+      "id": "IUZt0GjwYLI",
+      "publishedAt": "2020-05-07T20:00:39Z",
+      "title": "Why I started this VLOG and what I learned so far about YouTube content creation",
+      "description": "In this episode, I talk about why I started this VLOG and what I learned so far about YouTube content creation.",
+      "tags": ["VLOG", "Studio", "Lighting", "Sound"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": [],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "80c67ba00f185cb034d54057d29aef05ad117e0c46d7f6fe0c93991a2821dc86"
+    },
+    {
+      "id": "eu3iP1njMRI",
+      "publishedAt": "2020-05-04T21:57:51Z",
+      "title": "Why 1Password is the best proprietary password manager",
+      "description": "In this episode, we explore why 1Password is the best proprietary password manager.",
+      "tags": ["Privacy", "Security", "macOS", "Password manager", "1Password"],
+      "categoryId": "27",
+      "sections": [
+        {
+          "label": "Enable local sync",
+          "timestamp": "13:57"
+        }
+      ],
+      "suggestedVideos": ["video.uJBgb8XJoA8", "video.Bpc3EEQ-GoA"],
+      "links": [
+        {
+          "label": "1Password",
+          "url": "https://1password.com/"
+        }
+      ],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": ["Opted out from Amazon affiliate program"],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "bcbb1876f886cfed483e2038fe228f1bf9dce514f81d755fe8009ed6bfe5a015"
+    },
+    {
+      "id": "Bpc3EEQ-GoA",
+      "publishedAt": "2020-04-29T03:00:07Z",
+      "title": "Why using a password manager is essential and how to choose a great master password",
+      "description": "In this episode, we explore why using a password manager is essential and how to choose a great master password.",
+      "tags": ["Privacy", "Security", "macOS", "Password manager", "MacPass"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.NH4DdXC0RFw"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": ["Opted out from Amazon affiliate program"],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "105df367c7b4c9b20bbf2a5dc9ef2cdbbacbbedac287fec88e24c69d1c416076"
+    },
+    {
+      "id": "NH4DdXC0RFw",
+      "publishedAt": "2020-04-23T18:07:34Z",
+      "title": "Why Firefox is the best browser for privacy and how to configure things properly (see change log)",
+      "description": "In this episode, we explore why Firefox is the best browser for privacy and how to configure things properly.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "macOS",
+        "Firefox",
+        "HTTPS Everywhere",
+        "Privacy Badger",
+        "Firefox Multi-Account Containers"
+      ],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.uJBgb8XJoA8"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [
+        {
+          "type": "warning",
+          "timestamp": "6:40",
+          "message": "“Only in Private Windows” should be set to “In all windows”"
+        }
+      ],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "af52ccd0bd67a098eef86890d16616164077700ae508ff2c76989be88f80fe2b"
+    },
+    {
+      "id": "uJBgb8XJoA8",
+      "publishedAt": "2020-04-19T22:35:54Z",
+      "title": "How to configure macOS for privacy",
+      "description": "In this episode, we explore how to configure macOS for privacy.",
+      "tags": ["Privacy", "Security", "macOS"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.brGLX_92F5o"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "7524b7b79b7e2b3a2f74f5ecb3d1664988e54b8e8e1dbfa27cccbf16fa6f08a1"
+    },
+    {
+      "id": "brGLX_92F5o",
+      "publishedAt": "2019-07-29T14:12:43Z",
+      "title": "Why Macs equipped with the new T2 chip are shitty for hackers",
+      "description": "This is my hacker review of the 2019 MacBook Air equipped with the new T2 chip and why I’m keeping my old mid-2015 MacBook Pro.\n\nReturning or selling a T2-equiped Mac? Backup your data and run `xartutil --erase-all` to clear your T2 chip’s secure enclave which will brick FileVault, protecting your data from unsuspected eyes.",
+      "tags": ["Apple", "MacBook Air", "T2 chip"],
+      "categoryId": "27",
+      "sections": [],
+      "suggestedVideos": ["video.ASXANpr_zX8"],
+      "links": [],
+      "credits": [],
+      "affiliateLinks": [],
+      "footnotes": [],
+      "support": [
+        {
+          "label": "Support my research",
+          "url": "https://sunknudsen.com/donate"
+        }
+      ],
+      "thumbnailHash": "29fad42f3dbfe51bb33be466b290a79bb20f6b8f639cfdb2933f138db5f77c43"
+    }
+  ]
+}
